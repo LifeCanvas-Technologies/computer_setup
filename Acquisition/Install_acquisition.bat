@@ -85,6 +85,17 @@ if %do_this_step% equ y (
 	WallP 0 %wallpaper_image%
 )
 
+echo:
+set /P do_this_step="Create %install_files_directory% and set permissions? (y/n)"
+if %do_this_step% equ y (
+	mkdir %install_files_directory%
+	icacls %install_files_directory% /grant Everyone:^(OI^)^(CI^)F /T
+)
+
+echo =====================Downloads=======================
+echo:
+
+
 
 ::download files (and automated installs)
 curl -L -O %anaconda_file%%anaconda_url%
