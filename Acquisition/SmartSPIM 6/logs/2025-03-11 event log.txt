@@ -1,0 +1,94 @@
+2025-03-11T16:04:02	UI-Main	illum focus wizard step 3
+2025-03-11T16:04:02	Imager.change laser path	right
+2025-03-11T16:04:02	LSC.laser path change	right
+2025-03-11T16:04:02	ASI	m m=1	:A
+2025-03-11T16:04:02	ASI	M H=1960	:A
+2025-03-11T16:04:02	ASI	M I=1960	:A
+2025-03-11T16:04:02	ASI	M J=1960	:A
+2025-03-11T16:04:02	ASI	M K=1960	:A
+2025-03-11T16:04:02	Imager.laser active change to default	
+2025-03-11T16:04:02	LSC.laser active change to default	
+2025-03-11T16:04:02	ASI	m e=33	:A
+2025-03-11T16:04:02	ASI	6 cca y=2 z=0	:A
+2025-03-11T16:04:02	ASI	m e=34	:A
+2025-03-11T16:04:02	ASI	6 cca y=2 z=0	:A
+2025-03-11T16:04:03	ASI	m e=35	:A
+2025-03-11T16:04:03	ASI	6 cca y=2 z=4	:A
+2025-03-11T16:04:03	ASI	m e=36	:A
+2025-03-11T16:04:03	ASI	6 cca y=2 z=0	:A
+2025-03-11T16:04:03	Imager.focus dynamic adjustment off	
+2025-03-11T16:04:03	Imager.acquisition stop	
+2025-03-11T16:04:03	ASI	J X=0 Y=0 F=0 N=0 V=0 W=0	:A
+2025-03-11T16:04:03	Imager.ETL start stop control	FALSE
+2025-03-11T16:04:03	LSC.ETL start stop control	FALSE
+2025-03-11T16:04:03	Imager.filter open position go	
+2025-03-11T16:04:03	LSC.filter open position go to	
+2025-03-11T16:04:03	ASI	MP 4	4MP 4  4  0>
+2025-03-11T16:04:03	ASI	J F=22 W=23	:A
+2025-03-11T16:04:03	ASI	J Z=0 N=0 V=0	:A
+2025-03-11T16:04:03	ASI	7JS F=5.0 T=5.0	:A
+2025-03-11T16:04:03	Imager.scan prepare	
+2025-03-11T16:04:03	LSC.ETL offset write	-935.000000
+2025-03-11T16:04:03	LSC.ETL amplitude write	7500.000000
+2025-03-11T16:04:03	LSC.trigger delay write	16
+2025-03-11T16:04:03	ASI	SAO W=-935.000	:A
+2025-03-11T16:04:03	ASI	m e=1	:A
+2025-03-11T16:04:03	ASI	6 cca y=9 z=64	:A
+2025-03-11T16:04:03	ASI	6 ccb x=40 y=192	:A
+2025-03-11T16:04:03	ASI	SAA W = 7500.00	:A
+2025-03-11T16:04:03	LSC.ETL period write	50
+2025-03-11T16:04:03	ASI	SAF v=50 w=50	:A
+2025-03-11T16:04:03	ASI	m e=3 	:A
+2025-03-11T16:04:03	ASI	6 cca y=9 z=195	:A
+2025-03-11T16:04:03	ASI	6 ccb x=2 y=192	:A
+2025-03-11T16:04:03	ASI	m e=4 	:A
+2025-03-11T16:04:03	ASI	6 cca y=8 z=201	:A
+2025-03-11T16:04:03	ASI	6 ccb x=3 y=192	:A
+2025-03-11T16:04:03	LSC.trigger turn on	run time=23 Z offset=1
+2025-03-11T16:04:03	ASI	m e=2	:A
+2025-03-11T16:04:04	ASI	6 cca y=8 z=116	:A
+2025-03-11T16:04:04	ASI	6 ccb x=1 y=192	:A
+2025-03-11T16:04:04	ASI	m e=8	:A
+2025-03-11T16:04:04	ASI	6 cca y=9 z=96	:A
+2025-03-11T16:04:04	ASI	6 ccb x=7 y=192	:A
+2025-03-11T16:04:04	ASI	2 TTL x=0	:A
+2025-03-11T16:04:04	Imager.ETL start stop control	TRUE
+2025-03-11T16:04:04	LSC.ETL start stop control	TRUE
+2025-03-11T16:04:04	ASI	SAM W=1	:A
+2025-03-11T16:04:04	ASI	AC Z=100	:A
+2025-03-11T16:04:04	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"frame timeout (ms)":500,"line exposure (ms)":3,"readout direction":"forward","image metadata":{"z step (um)":0,"refocus range (um)":0,"z block":0}}}
+2025-03-11T16:21:53	Test_Panels	stopped
+2025-03-11T16:21:53	Imager.focus dynamic adjustment off	
+2025-03-11T16:21:53	Imager.acquisition stop	
+2025-03-11T16:21:53	ASI	J X=0 Y=0 F=0 N=0 V=0 W=0	:A
+2025-03-11T16:21:53	Imager.ETL start stop control	FALSE
+2025-03-11T16:21:53	LSC.ETL start stop control	FALSE
+2025-03-11T16:21:53	ASI	SAM V=0 W=0	:A
+2025-03-11T16:21:53	ASI	J Z=23 F=22	:A
+2025-03-11T16:21:53	ASI	J N=0 V=0 W=0	:A
+2025-03-11T16:21:53	ASI	7JS F=5.0 T=5.0	:A
+2025-03-11T16:21:53	Imager.change objective lens	LCT 1.625x
+2025-03-11T16:21:53	OS : UL.move	FALSE
+2025-03-11T16:21:53	OS : LL.move	TRUE
+2025-03-11T16:21:53	OS : UR.move	FALSE
+2025-03-11T16:21:53	OS : LR.move	TRUE
+2025-03-11T16:21:53	Imager.focus dynamic adjustment off	
+2025-03-11T16:21:53	Imager.filter change to match laser	
+2025-03-11T16:21:53	LSC.filter change to match laser	
+2025-03-11T16:21:53	ASI	MP 2	2MP 2  2  0>
+2025-03-11T16:21:54	UI-Main	stopped
+2025-03-11T16:21:54	SPIM_App	stopped
+2025-03-11T16:21:54	SPIM_Control	stopped
+2025-03-11T16:21:54	JoystickASI	stopped
+2025-03-11T16:21:54	Imager	stopped
+2025-03-11T16:21:54	Optical_Configuration	stopped
+2025-03-11T16:21:54	OS.close	
+2025-03-11T16:21:54	OSMightyZAP	stopped
+2025-03-11T16:21:54	LSC	stopped
+2025-03-11T16:21:54	Focus	stopped
+2025-03-11T16:21:56	StageASI	stopped
+2025-03-11T16:21:56	LaserVortran	stopped
+2025-03-11T16:21:56	TriggerASI	stopped
+2025-03-11T16:21:56	ETLASI	stopped
+2025-03-11T16:21:56	Filter_WheelASI	stopped
+2025-03-11T16:21:56	LSHA_ActuatorASI	stopped

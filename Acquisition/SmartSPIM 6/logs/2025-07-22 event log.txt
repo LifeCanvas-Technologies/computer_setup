@@ -1,0 +1,127 @@
+2025-07-22T10:25:42	Test_Panels	ASI opened
+2025-07-22T10:25:46	ASI	whjo
+2025-07-22T10:25:49	ASI	o
+2025-07-22T10:25:51	ASI	who	At 30: Comm v3.45 TIGER_COMM Apr 04 2024:17:51:59 At 31: X:XYMotor,Y:XYMotor v3.45 STD_XY Mar 21 2024:13:50:57 [S] At 32: Z:ZMotor,F:ZMotor v3.45 STD_ZF Mar 21 2024:13:55:44 [S] At 34: H:DAC,I:DAC,J:DAC,K:DAC v3.45 SIGNAL_DAC_4CH Mar 21 2024:14:30:05 [S] At 36: E:Logic v3.45 PLOGIC_16 Mar 21 2024:14:25:58 [S] At 37: M:Shutter,N:Motor v3.45 FLIPPER_M_TIRF_N Mar 21 2024:14:36:35 [S] At 38: 0:FW,1:FW v1.4 TGFW Mar 27 2019:16:03:13 At 39: V:Lens,W:Lens v3.51 SIGNAL_DAC_2CH Feb 20 2025:11:57:33 [S]
+2025-07-22T10:56:44	Imager.ETL offset shift	FALSE
+2025-07-22T10:56:44	Imager.focus dynamic adjustment off	
+2025-07-22T10:56:44	ASI	7JS F=1.0 T=1.0	:A
+2025-07-22T10:56:46	UI-Main	illum focus wizard begin right alignment
+2025-07-22T10:56:46	Imager.acquisition stop	
+2025-07-22T10:56:46	Imager.ETL control	FALSE
+2025-07-22T10:56:46	LSC.ETL start stop control	FALSE
+2025-07-22T10:56:46	ASI	M Z=-35000	:A
+2025-07-22T10:56:46	Imager.change objective lens	LCT 3.6x
+2025-07-22T10:56:46	OS : UL.move	FALSE
+2025-07-22T10:56:46	OS : LL.move	TRUE
+2025-07-22T10:56:46	OS : UR.move	FALSE
+2025-07-22T10:56:46	OS : LR.move	TRUE
+2025-07-22T10:56:46	Imager.focus dynamic adjustment off	
+2025-07-22T10:56:46	Imager.laser lens remove	
+2025-07-22T10:56:46	OS : UL.move	FALSE
+2025-07-22T10:56:46	OS : LL.move	FALSE
+2025-07-22T10:56:46	OS : UR.move	FALSE
+2025-07-22T10:56:46	OS : LR.move	FALSE
+2025-07-22T10:56:46	Imager.change laser path	right
+2025-07-22T10:56:46	LSC.laser path change	right
+2025-07-22T10:56:46	ASI	m m=1	:A
+2025-07-22T10:56:46	ASI	M H=1000	:A
+2025-07-22T10:56:46	ASI	M I=1000	:A
+2025-07-22T10:56:46	ASI	M J=1000	:A
+2025-07-22T10:56:46	Imager.change laser to default	
+2025-07-22T10:56:46	LSC.laser active change to default	
+2025-07-22T10:56:46	ASI	m e=33	:A
+2025-07-22T10:56:46	ASI	6 cca y=2 z=0	:A
+2025-07-22T10:56:47	ASI	m e=34	:A
+2025-07-22T10:56:47	ASI	6 cca y=2 z=9	:A
+2025-07-22T10:56:47	ASI	m e=35	:A
+2025-07-22T10:56:47	ASI	6 cca y=2 z=0	:A
+2025-07-22T10:56:47	Imager.focus dynamic adjustment off	
+2025-07-22T10:56:47	Imager.filter open position go	
+2025-07-22T10:56:47	LSC.filter open position go to	
+2025-07-22T10:56:47	ASI	MP 3	3MP 3  3  0>
+2025-07-22T10:56:47	ASI	J F=22 W=23	:A
+2025-07-22T10:56:47	ASI	J Z=0 N=0 V=0 X=0 Y=0	:A
+2025-07-22T10:56:47	LSC.ETL amplitude write	2300.000000
+2025-07-22T10:56:47	ASI	SAA W = 2300.00	:A
+2025-07-22T10:56:47	LSC.trigger delay write	32
+2025-07-22T10:56:47	ASI	m e=1	:A
+2025-07-22T10:56:47	ASI	6 cca y=9 z=128	:A
+2025-07-22T10:56:47	ASI	6 ccb x=40 y=192	:A
+2025-07-22T10:56:47	LSC.ETL offset write	5161.700000
+2025-07-22T10:56:47	ASI	SAO W=5161.700	:A
+2025-07-22T10:56:47	Imager.scan prepare	
+2025-07-22T10:56:47	LSC.ETL period write	50
+2025-07-22T10:56:47	ASI	SAF v=50 w=50	:A
+2025-07-22T10:56:48	ASI	m e=3 	:A
+2025-07-22T10:56:48	ASI	6 cca y=9 z=195	:A
+2025-07-22T10:56:48	ASI	6 ccb x=2 y=192	:A
+2025-07-22T10:56:48	ASI	m e=4 	:A
+2025-07-22T10:56:48	ASI	6 cca y=8 z=201	:A
+2025-07-22T10:56:48	ASI	6 ccb x=3 y=192	:A
+2025-07-22T10:56:48	LSC.trigger turn on	run time=23 Z offset=1
+2025-07-22T10:56:48	ASI	m e=2	:A
+2025-07-22T10:56:48	ASI	6 cca y=8 z=116	:A
+2025-07-22T10:56:48	ASI	6 ccb x=1 y=192	:A
+2025-07-22T10:56:48	ASI	m e=8	:A
+2025-07-22T10:56:48	ASI	6 cca y=9 z=96	:A
+2025-07-22T10:56:48	ASI	6 ccb x=7 y=192	:A
+2025-07-22T10:56:48	ASI	2 TTL x=0	:A
+2025-07-22T10:56:48	Imager.ETL control	TRUE
+2025-07-22T10:56:48	LSC.ETL start stop control	TRUE
+2025-07-22T10:56:48	ASI	SAM W=1	:A
+2025-07-22T10:56:48	ASI	AC Z=100	:A
+2025-07-22T10:56:48	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"image":{"resolution":2000,"aspect ratio":0.8}}}
+2025-07-22T10:56:48	Imager.change laser wavelength	561
+2025-07-22T10:56:48	LSC.laser active change	561
+2025-07-22T10:56:48	ASI	m e=33	:A
+2025-07-22T10:56:48	ASI	6 cca y=2 z=0	:A
+2025-07-22T10:56:48	ASI	m e=34	:A
+2025-07-22T10:56:48	ASI	6 cca y=2 z=4	:A
+2025-07-22T10:56:49	ASI	m e=35	:A
+2025-07-22T10:56:49	ASI	6 cca y=2 z=0	:A
+2025-07-22T10:57:22	Imager.acquisition stop	
+2025-07-22T10:57:22	Imager.ETL control	FALSE
+2025-07-22T10:57:22	LSC.ETL start stop control	FALSE
+2025-07-22T10:57:22	ASI	SAM V=0 W=0	:A
+2025-07-22T10:57:22	ASI	J X=0 Y=0	:A
+2025-07-22T12:53:02	Imager.ETL offset shift	TRUE
+2025-07-22T12:53:02	Imager.focus dynamic adjustment off	
+2025-07-22T12:53:02	Imager.acquisition stop	
+2025-07-22T12:53:02	Imager.ETL control	FALSE
+2025-07-22T12:53:02	LSC.ETL start stop control	FALSE
+2025-07-22T12:53:02	ASI	J Z=23 F=22	:A
+2025-07-22T12:53:02	ASI	J N=0 V=0 W=0 X=0 Y=0	:A
+2025-07-22T12:53:02	ASI	7JS F=1.0 T=1.0	:A
+2025-07-22T12:53:02	Imager.change objective lens	LCT 3.6x
+2025-07-22T12:53:02	OS : UL.move	FALSE
+2025-07-22T12:53:02	OS : LL.move	TRUE
+2025-07-22T12:53:02	OS : UR.move	FALSE
+2025-07-22T12:53:02	OS : LR.move	TRUE
+2025-07-22T12:53:02	Imager.focus dynamic adjustment off	
+2025-07-22T12:53:02	Imager.filter change to match laser	
+2025-07-22T12:53:02	LSC.filter change to match laser	
+2025-07-22T12:53:02	ASI	MP 1	1MP 1  1  0>
+2025-07-22T12:53:02	Imager.change laser path	right
+2025-07-22T12:53:02	LSC.laser path change	right
+2025-07-22T12:53:02	ASI	m m=1	:A
+2025-07-22T12:53:02	ASI	M H=1000	:A
+2025-07-22T12:53:02	ASI	M I=1000	:A
+2025-07-22T12:53:02	ASI	M J=1000	:A
+2025-07-22T12:53:06	Test_Panels	stopped
+2025-07-22T12:53:08	UI-Main	stopped
+2025-07-22T12:53:08	SPIM_App	stopped
+2025-07-22T12:53:08	Sequencer	stopped
+2025-07-22T12:53:09	SPIM_Control	stopped
+2025-07-22T12:53:09	Joystick	stopped
+2025-07-22T12:53:10	Imager	stopped
+2025-07-22T12:53:10	Optical_Configuration	stopped
+2025-07-22T12:53:10	OS.close	
+2025-07-22T12:53:10	OSMightyZAP	stopped
+2025-07-22T12:53:10	LSC	stopped
+2025-07-22T12:53:10	Focus	stopped
+2025-07-22T12:53:11	Stage	stopped
+2025-07-22T12:53:11	LaserVortran	stopped
+2025-07-22T12:53:12	Trigger	stopped
+2025-07-22T12:53:12	ETL	stopped
+2025-07-22T12:53:12	Filter_Wheel	stopped
+2025-07-22T12:53:12	LSHA_Actuator	stopped

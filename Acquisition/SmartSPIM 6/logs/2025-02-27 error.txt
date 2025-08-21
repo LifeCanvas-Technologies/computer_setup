@@ -1,0 +1,24 @@
+2025-02-27T08:32:18	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "0:A"
+2025-02-27T09:15:48	UI-Main	error_code:1003	Open VI Reference in UI-Main.lvclass:control panel launcher.vi->UI-Main.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770021->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.9E10014C<APPEND> VI Name: <b>UI-Main.lvclass:CP.illumination focus wizard.vi</b>
+2025-02-27T09:19:04	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: ">:A"
+2025-02-27T09:49:41	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: ">:A"
+2025-02-27T12:58:44	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "2MP 2  2  0>"
+2025-02-27T13:02:23	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-02-27T13:03:16	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-02-27T13:04:06	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "1MP 1  1  0>"
+2025-02-27T14:14:22	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-02-27T15:14:58	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key "FAST,LCT 3.6x,1.52+,right,0.Amp" not found.
+2025-02-27T15:15:02	SPIM_App	error_code:42	LSC.lvclass:filter change to match laser.vi<ERR> Filter name not defined for 0 laser wavelength.
+2025-02-27T15:15:03	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key "FAST,LCT 3.6x,1.52+,right,0.Amp" not found.
+2025-02-27T15:15:04	SPIM_App	error_code:42	LSC.lvclass:filter change to match laser.vi<ERR> Filter name not defined for 0 laser wavelength.
+2025-02-27T15:15:04	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key "FAST,LCT 3.6x,1.52+,right,0.Amp" not found.
+2025-02-27T15:27:14	SPIM_App	error_code:42	LSC.lvclass:filter change to match laser.vi<ERR> Filter name not defined for 0 laser wavelength.
+2025-02-27T15:27:14	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key ",NA,NA,left,0.Amp" not found.
+2025-02-27T15:27:14	UI-Main	error_code:42	Optical_Configuration.lvclass:objective lens change.vi<ERR> Objective name "" not found.
+2025-02-27T15:27:15	SPIM_App	error_code:42	LSC.lvclass:filter change to match laser.vi<ERR> Filter name not defined for 0 laser wavelength.
+2025-02-27T15:27:15	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key ",NA,NA,left,0.Amp" not found.
+2025-02-27T15:27:15	UI-Main	error_code:42	Optical_Configuration.lvclass:objective lens change.vi<ERR> Objective name "" not found.
+2025-02-27T15:27:17	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key ",NA,NA,right,0.Amp" not found.
+2025-02-27T15:27:17	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key ",NA,NA,right,561.Amp" not found.
+2025-02-27T15:27:26	SPIM_Control	error_code:42	scan_parameters.lvclass:lookup parameter.vi<ERR> Scan map key ",NA,NA,right,561.Amp" not found.
+2025-02-27T15:27:26	UI-Main	error_code:42	Optical_Configuration.lvclass:objective lens change.vi<ERR> Objective name "" not found.

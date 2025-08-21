@@ -1,0 +1,25 @@
+2025-08-11T09:31:27	UI-Main	error_code:42	SPIM_App.lvclass:API command-response.vi<ERR> Timed out while waiting for reply: imaging speed change   <b>Complete call chain:</b>       SPIM_App.lvclass:API command-response.vi       SPIM_App.lvclass:imaging speed change.vi       UI-Main.lvclass:Process.vi:5310001       SMO.lvclass:LaunchProcess.vi:3770024       SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.9F0000E3
+2025-08-11T09:31:27	SPIM_App	error_code:42	SPIM_Control.lvclass:API command-response.vi<ERR> SPIM_Control timeout while waiting for response to "imaging speed change".   <b>Complete call chain:</b>       SPIM_Control.lvclass:API command-response.vi       SPIM_Control.lvclass:imaging speed change.vi       SPIM_App.lvclass:Process.vi:5310001       SMO.lvclass:LaunchProcess.vi:3770023       SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.9ED000E0
+2025-08-11T09:31:27	SPIM_Control	error_code:1	Send Notification in SPIM_Control.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770021->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.9E7000DA
+2025-08-11T09:39:33	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-08-11T09:39:34	Imager	error_code:-2147483386	TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-08-11T09:39:35	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-08-11T09:39:36	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-08-11T09:39:48	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-08-11T09:40:02	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-08-11T09:40:10	ASI_TG-1000	error_code:-1073807298	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:serial command-response notifier.vi->ASI_TG-1000.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770003->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.DA30008B
+2025-08-11T09:40:10	StageASI	error_code:-1073807298	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:serial command-response notifier.vi->ASI_TG-1000.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770003->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.DA30008B
+2025-08-11T09:40:13	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-08-11T09:40:23	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-08-11T09:40:33	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-08-11T09:40:43	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-08-11T09:40:54	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-08-11T09:41:01	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	StageASI	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-1586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	StageASI	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-1586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	StageASI	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-1586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:01	StageASI	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "-1586 -35783 37" in response to "W X Y Z F"
+2025-08-11T09:41:12	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi

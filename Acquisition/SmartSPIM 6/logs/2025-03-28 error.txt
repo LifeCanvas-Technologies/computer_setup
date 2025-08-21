@@ -1,0 +1,7 @@
+2025-03-28T08:37:06	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.
+2025-03-28T08:38:34	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-03-28T08:38:44	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-03-28T08:38:54	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-03-28T08:38:59	Imager	error_code:-2147483386	TMERR_TIMEOUT - The capture has timed out at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-03-28T08:40:46	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-03-28T08:43:39	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.

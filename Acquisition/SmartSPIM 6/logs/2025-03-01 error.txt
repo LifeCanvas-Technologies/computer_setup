@@ -1,0 +1,11 @@
+2025-03-01T10:35:51	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-01T10:36:34	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-01T10:37:08	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-01T10:37:24	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-01T10:37:31	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "Adr:1:XY        0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0"
+2025-03-01T10:38:24	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "0DE 0  0    4  0>  4"
+2025-03-01T10:39:24	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "0DE 0  0    4"
+2025-03-01T10:39:45	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 937 were detected.
+2025-03-01T10:40:42	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: "0DE 0  0    4"
+2025-03-01T10:41:12	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-01T10:58:28	UI-Main	error_code:-1074396154	IMAQ Absolute Difference   

@@ -1,0 +1,4 @@
+2025-06-26T11:43:01	Test_Panels	error_code:91	Variant To Data in Test_Panels.lvclass:panel.illumination focus.vi->Test_Panels.lvclass:panel.illumination focus.vi.ACBRProxyCaller.9D0000FA
+2025-06-26T13:53:07	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-06-26T13:53:55	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-06-26T13:56:38	Imager	error_code:-1074395995	IMAQ ReadFile2   

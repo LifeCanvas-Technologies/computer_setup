@@ -1,0 +1,148 @@
+9 ttl y=22 	:A
+SAP v=48 w=48 	:A
+SAA v=2000 w=2000 	:A
+SAF v=50 w=50 	:A
+SAO v=0 w=0	:A
+6 PM E=1	:A
+m e=40 	:A
+6 cca y=0	:A
+m e=33 	:A
+6 cca y=2 z=4	:A
+m e=34 	:A
+6 cca y=2 z=0	:A
+m e=35 	:A
+6 cca y=2 z=0	:A
+m e=36 	:A
+6 cca y=2 z=0	:A
+m e=37 	:A
+6 cca y=2 z=2	:A
+m e=38 	:A
+6 cca y=2 z=0	:A
+m e=39 	:A
+6 cca y=2 z=8	:A
+m e=1	:A
+6 cca y=9 z=25	:A
+6 ccb x=40 y=192	:A
+m e=2	:A
+6 cca y=8 z=112	:A
+6 ccb x=1 y=192	:A
+m e=3	:A
+6 cca y=9 z=45	:A
+6 ccb x=2 y=192	:A
+m e=4	:A
+6 cca y=8 z=55	:A
+6 ccb x=3 y=192	:A
+m e=5	:A
+6 cca y=5 	:A
+6 ccb x=2 y=4	:A
+m e=6	:A
+6 cca y=8 z=301	:A
+6 ccb x=4 y=5	:A
+m e=7	:A
+6 cca y=5 	:A
+6 ccb x=5 y=6	:A
+m e=8	:A
+6 cca y=9 z=112	:A
+6 ccb x=7 y=192	:A
+m e=9	:A
+6 cca y=5 	:A
+6 ccb x=4 y=6	:A
+j z=23 f=22 m=0 n=0 v=0 w=0	:A
+s x=1.7 y=1.7 z=1.7 f=1.7 	:A
+1 js x=80 y=80	:A
+2 js f=10 t=10	:A
+b v=100 w=100	:A
+j v=0 w=0	:A
+j z=23 f=22	:A
+9 js f=0.3 t=0.3	:A
+s m=20	:A
+2 TTL x=2 y=2	:A
+2 TTL x=0	:A
+pc z=0.0002	:A
+e z=0.0004	:A
+ac z=25	:A
+kv z=85	:A
+ka z=0	:A
+kp z=200	:A
+5 PM g=1	:N-7
+m g=40 	:N-2
+5 cca y=0	:N-7
+5 m g=33 	:N-7
+5 cca y=2 z=40	:N-7
+5 m g=34 	:N-7
+5 cca y=2 z=0	:N-7
+5 m g=35 	:N-7
+5 cca y=2 z=0	:N-7
+m g=36 	:N-2
+5 cca y=2 z=0	:N-7
+m g=37 	:N-2
+5 cca y=2 z=0	:N-7
+m g=38 	:N-2
+5 cca y=2 z=0	:N-7
+m g=39 	:N-2
+5 cca y=2 z=0	:N-7
+HO	HO    0>
+M H=1200	:A
+M I=1200	:A
+M J=1200	:A
+M K=1200	:A
+J N=0 V=0 W=0	:A
+J X=2 Y=3 Z=22 F=23	:A
+MP 4	4MP 4  4  0
+SAM V=0 W=0	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+7JS F=10.0 T=10.0	:A
+J Z=0 V=0 W=0 N=0	:A
+SAM V=0 W=0	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+7JS F=10.0 T=10.0	:A
+J Z=0 V=0 W=0 N=0	:A
+m m=1	:A
+M H=1960	:A
+M I=1960	:A
+M J=1960	:A
+M K=1960	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+m e=33	:A
+6 cca y=2 z=0	:A
+m e=34	:A
+6 cca y=2 z=0	:A
+m e=35	:A
+6 cca y=2 z=4	:A
+m e=36	:A
+6 cca y=2 z=0	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+SAM V=0 W=0	:A
+MP 4	4MP 4  4  0>
+J F=23 W=22	:A
+J Z=0 N=0 V=0	:A
+7JS F=10.0 T=10.0	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+m e=0	:A
+6 cca y=8 z=116	:A
+6 ccb x=1 y=192	:A
+m e=8	:A
+6 cca y=9 z=96	:A
+6 ccb x=7 y=192	:A
+2 TTL x=0	:A
+SAM W=1	:A
+AC Z=100	:A
+SAM V=0 W=0	:A
+J Z=22 F=23	:A
+J N=0 V=0 W=0	:A
+7JS F=10.0 T=10.0	:A
+m e=0	:A
+6 cca y=9 z=0	:A
+6 ccb x=40 y=192	:A
+MP 2	2MP 2  2
+SAM V=0 W=0	:A

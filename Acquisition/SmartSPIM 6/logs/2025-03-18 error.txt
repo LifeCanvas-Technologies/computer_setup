@@ -1,0 +1,2 @@
+2025-03-18T13:48:40	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.
+2025-03-18T13:57:18	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.

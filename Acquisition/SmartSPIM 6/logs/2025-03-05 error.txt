@@ -1,0 +1,4 @@
+2025-03-05T12:48:55	LaserOxx	error_code:-1073807346	VISA Write in Laser.Oxx.lvclass:LASER - Send.vi->Laser.Oxx.lvclass:TTL control.write.vi->Laser.Oxx.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880007->Startup_Manager.lvclass:start subsystems.vi->Launcher.vi
+2025-03-05T12:48:56	Imager	error_code:-1073807346	VISA Write in Laser.Oxx.lvclass:LASER - Send.vi->Laser.Oxx.lvclass:shutter.write.vi->Laser.Oxx.lvclass:change path.vi->LSC.lvclass:laser path change.vi->Imager.lvclass:laser path change.vi:680001->Imager.lvclass:assign default imaging options.vi:910001->Imager.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880007->Startup_Manager.lvclass:start subsystems.vi->Launcher.vi
+2025-03-05T13:46:55	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-03-05T13:46:55	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 2 were detected.

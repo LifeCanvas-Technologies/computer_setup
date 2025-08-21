@@ -1,0 +1,6 @@
+2025-02-13T11:10:13	Imager	error_code:42	Imager.lvclass:create cameras.vi<ERR> Camera serial number, /N: 000706, was not reported by driver.
+2025-02-13T11:10:13	Imager	error_code:1556	In Place Element Structure in Camera.lvclass:exposure settings.set.vi->Imager.lvclass:camera change.vi->Imager.lvclass:onProcessStarted.vi:6540001->SMO.lvclass:StartProcesses.vi:3690034->SMO.lvclass:Start.vi:1880033->start subsystems.vi->Launcher.vi
+2025-02-13T11:12:00	Test_Panels	error_code:42	Imager.lvclass:acquisition control.vi<ERR> Timed out while waiting for Imager acquisition control preview acquisition.   <b>Complete call chain:</b>       Imager.lvclass:acquisition control.vi       Imager.lvclass:acquisition start.vi:1880001       Test_Panels.lvclass:panel.imager.vi       Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.15200139
+2025-02-13T11:12:00	Imager	error_code:42	Imager.lvclass:request camera event reregistration.vi<ERR> Timeout occurred while waiting for camera registration response.
+2025-02-13T13:20:27	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "SLOW-LCT 3.6x-EasyIndex-left-640.Amp" not found.
+2025-02-13T15:06:54	Test_Panels	error_code:-1074395989	IMAQ ReadFile2   

@@ -1,0 +1,4 @@
+2025-06-23T13:26:08	OSMightyZAP	error_code:-1073807343	VISA Open in mightyZAP.lvclass:connect.vi->OS.MightyZAP.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770012->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.EAB00106
+2025-06-23T13:26:10	OSMightyZAP	error_code:-1073807346	VISA Write in mightyZAP.lvclass:write.vi->mightyZAP.lvclass:send.goal_position.vi->OS.MightyZAP.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770012->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.EAB00106
+2025-06-23T14:06:12	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":N-2" in response to "js n?"
+2025-06-23T14:06:12	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":N-2" in response to "js n?"

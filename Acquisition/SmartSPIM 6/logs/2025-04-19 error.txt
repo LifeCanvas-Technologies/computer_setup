@@ -1,0 +1,3 @@
+2025-04-19T13:04:10	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-04-19T13:04:20	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-04-19T13:04:30	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi

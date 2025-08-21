@@ -1,0 +1,6 @@
+2025-04-18T01:13:44	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-04-18T01:13:50	Imager	error_code:-2147483386	TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-04-18T01:13:50	Imager	error_code:-2147483386	Imager.lvclass:Process.vi:5310001<ERR> TMERR_TIMEOUT - The capture has timed out at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_waitnextframe_40.vi
+2025-04-18T01:13:54	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-04-18T01:13:58	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-04-18T01:14:13	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi

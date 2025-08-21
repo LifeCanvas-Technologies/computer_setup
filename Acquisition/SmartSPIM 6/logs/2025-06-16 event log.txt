@@ -1,0 +1,178 @@
+2025-06-16T11:38:37	ASI	starting
+2025-06-16T11:38:37	ASI	9 ttl y=22
+2025-06-16T11:38:37	ASI	SAP v=32 w=32
+2025-06-16T11:38:37	ASI	SAA v=2000 w=2000
+2025-06-16T11:38:37	ASI	SAF v=50 w=50
+2025-06-16T11:38:37	ASI	SAO v=0 w=0
+2025-06-16T11:38:37	ASI	6 PM E=0
+2025-06-16T11:38:37	ASI	m e=40
+2025-06-16T11:38:37	ASI	6 cca y=0
+2025-06-16T11:38:37	ASI	m e=33
+2025-06-16T11:38:37	ASI	6 cca y=2 z=4
+2025-06-16T11:38:37	ASI	m e=34
+2025-06-16T11:38:37	ASI	6 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m e=35
+2025-06-16T11:38:37	ASI	6 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m e=36
+2025-06-16T11:38:37	ASI	6 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m e=37
+2025-06-16T11:38:37	ASI	6 cca y=2 z=2
+2025-06-16T11:38:37	ASI	m e=38
+2025-06-16T11:38:37	ASI	6 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m e=39
+2025-06-16T11:38:37	ASI	6 cca y=2 z=8
+2025-06-16T11:38:37	ASI	m e=1
+2025-06-16T11:38:37	ASI	6 cca y=9 z=25
+2025-06-16T11:38:37	ASI	6 ccb x=40 y=192
+2025-06-16T11:38:37	ASI	m e=2
+2025-06-16T11:38:37	ASI	6 cca y=8 z=112
+2025-06-16T11:38:37	ASI	6 ccb x=1 y=192
+2025-06-16T11:38:37	ASI	m e=3
+2025-06-16T11:38:37	ASI	6 cca y=9 z=45
+2025-06-16T11:38:37	ASI	6 ccb x=2 y=192
+2025-06-16T11:38:37	ASI	m e=4
+2025-06-16T11:38:37	ASI	6 cca y=8 z=55
+2025-06-16T11:38:37	ASI	6 ccb x=3 y=192
+2025-06-16T11:38:37	ASI	m e=5
+2025-06-16T11:38:37	ASI	6 cca y=5
+2025-06-16T11:38:37	ASI	6 ccb x=2 y=4
+2025-06-16T11:38:37	ASI	m e=6
+2025-06-16T11:38:37	ASI	6 cca y=8 z=301
+2025-06-16T11:38:37	ASI	6 ccb x=4 y=5
+2025-06-16T11:38:37	ASI	m e=7
+2025-06-16T11:38:37	ASI	6 cca y=5
+2025-06-16T11:38:37	ASI	6 ccb x=5 y=6
+2025-06-16T11:38:37	ASI	m e=8
+2025-06-16T11:38:37	ASI	6 cca y=9 z=112
+2025-06-16T11:38:37	ASI	6 ccb x=7 y=192
+2025-06-16T11:38:37	ASI	m e=9
+2025-06-16T11:38:37	ASI	6 cca y=5
+2025-06-16T11:38:37	ASI	6 ccb x=4 y=6
+2025-06-16T11:38:37	ASI	j z=23 f=22 m=0 n=0 v=0 w=0
+2025-06-16T11:38:37	ASI	s x=1.7 y=1.7 z=1.7 f=1.7
+2025-06-16T11:38:37	ASI	1 js x=80 y=80
+2025-06-16T11:38:37	ASI	2 js f=10 t=10
+2025-06-16T11:38:37	ASI	b v=0 w=0
+2025-06-16T11:38:37	ASI	j v=0 w=0
+2025-06-16T11:38:37	ASI	j z=23 f=22
+2025-06-16T11:38:37	ASI	9 js f=0.3 t=0.3
+2025-06-16T11:38:37	ASI	s m=20
+2025-06-16T11:38:37	ASI	2 TTL x=2 y=2
+2025-06-16T11:38:37	ASI	2 TTL x=0
+2025-06-16T11:38:37	ASI	pc z=0.0002
+2025-06-16T11:38:37	ASI	e z=0.0004
+2025-06-16T11:38:37	ASI	ac z=25
+2025-06-16T11:38:37	ASI	kv z=85
+2025-06-16T11:38:37	ASI	ka z=0
+2025-06-16T11:38:37	ASI	kp z=200
+2025-06-16T11:38:37	ASI	5 PM g=1
+2025-06-16T11:38:37	ASI	m g=40
+2025-06-16T11:38:37	ASI	5 cca y=0
+2025-06-16T11:38:37	ASI	5 m g=33
+2025-06-16T11:38:37	ASI	5 cca y=2 z=40
+2025-06-16T11:38:37	ASI	5 m g=34
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	ASI	5 m g=35
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m g=36
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m g=37
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m g=38
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	ASI	m g=39
+2025-06-16T11:38:37	ASI	5 cca y=2 z=0
+2025-06-16T11:38:37	LSHA_Actuator	starting
+2025-06-16T11:38:37	Filter_Wheel	starting
+2025-06-16T11:38:37	ETL	starting
+2025-06-16T11:38:37	Trigger	starting
+2025-06-16T11:38:37	LaserVortran	starting
+2025-06-16T11:38:38	Stage	starting
+2025-06-16T11:38:38	Focus	starting
+2025-06-16T11:38:38	LSC	starting
+2025-06-16T11:38:38	OSMightyZAP	starting
+2025-06-16T11:38:38	OS.open	
+2025-06-16T11:38:38	Optical_Configuration	starting
+2025-06-16T11:38:38	Imager	starting
+2025-06-16T11:38:40	Imager.change objective lens	LCT 3.6x
+2025-06-16T11:38:40	OS : UL.move	FALSE
+2025-06-16T11:38:40	OS : LL.move	TRUE
+2025-06-16T11:38:40	OS : UR.move	FALSE
+2025-06-16T11:38:40	OS : LR.move	TRUE
+2025-06-16T11:38:40	Imager.change laser path	right
+2025-06-16T11:38:40	LSC.laser path change	right
+2025-06-16T11:38:40	Imager.filter position go to	561F
+2025-06-16T11:38:40	LSC.filter position go	561F
+2025-06-16T11:38:40	Imager.change imaging speed	FAST
+2025-06-16T11:38:40	LSC.ETL period write	50
+2025-06-16T11:38:45	Imager.sampling multiplier change	1.000000
+2025-06-16T11:38:45	Joystick	starting
+2025-06-16T11:38:46	SPIM_Control	starting
+2025-06-16T11:38:46	Sequencer	starting
+2025-06-16T11:38:46	SPIM_App	starting
+2025-06-16T11:38:46	UI-Main	starting
+2025-06-16T11:38:46	Imager.LSHA position	
+2025-06-16T11:38:46	LSC.LSHA position	0.000000
+2025-06-16T11:38:46	Sequencer.select step	sample_1	9CA99E59-15EF-4053-BE91-81B9DFED98AD
+2025-06-16T11:38:46	Imager.focus map update	
+2025-06-16T11:38:46	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-16T11:38:46	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-16T11:38:46	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-16T11:38:46	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-16T11:38:46	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-16T11:38:46	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-16T11:38:46	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-16T11:38:46	Imager.LSHA move	0.000000
+2025-06-16T11:38:46	LSC.LSHA actuator move	0.000000
+2025-06-16T11:38:46	Test_Panels	starting
+2025-06-16T11:38:46	startup	finished with errors
+2025-06-16T11:38:49	LSC.ETL amplitude write	2650.000000
+2025-06-16T11:38:49	LSC.trigger delay write	16
+2025-06-16T11:38:49	LSC.ETL offset write	4314.063000
+2025-06-16T11:38:49	Imager.scan prepare	
+2025-06-16T11:38:49	LSC.ETL period write	50
+2025-06-16T11:38:49	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-16T11:38:49	Imager.ETL control	TRUE
+2025-06-16T11:38:49	LSC.ETL start stop control	TRUE
+2025-06-16T11:38:49	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-16T11:38:58	Imager.acquisition stop	
+2025-06-16T11:38:59	Imager.ETL control	FALSE
+2025-06-16T11:38:59	LSC.ETL start stop control	FALSE
+2025-06-16T11:39:06	LSC.ETL amplitude write	2650.000000
+2025-06-16T11:39:06	LSC.trigger delay write	16
+2025-06-16T11:39:06	LSC.ETL offset write	4314.063000
+2025-06-16T11:39:06	Imager.scan prepare	
+2025-06-16T11:39:06	LSC.ETL period write	50
+2025-06-16T11:39:06	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-16T11:39:06	Imager.ETL control	TRUE
+2025-06-16T11:39:06	LSC.ETL start stop control	TRUE
+2025-06-16T11:39:06	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-16T11:39:12	Imager.acquisition stop	
+2025-06-16T11:39:12	Imager.ETL control	FALSE
+2025-06-16T11:39:12	LSC.ETL start stop control	FALSE
+2025-06-16T11:39:54	Test_Panels	stopped
+2025-06-16T11:39:56	UI-Main	stopped
+2025-06-16T11:39:56	SPIM_App	stopped
+2025-06-16T11:39:56	Sequencer	stopped
+2025-06-16T11:39:58	SPIM_Control	stopped
+2025-06-16T11:39:58	Joystick	stopped
+2025-06-16T11:39:58	Imager	stopped
+2025-06-16T11:39:58	Optical_Configuration	stopped
+2025-06-16T11:39:58	OS.close	
+2025-06-16T11:39:58	OSMightyZAP	stopped
+2025-06-16T11:39:58	LSC	stopped
+2025-06-16T11:39:58	Focus	stopped
+2025-06-16T11:40:00	Stage	stopped
+2025-06-16T11:40:00	LaserVortran	stopped
+2025-06-16T11:40:00	Trigger	stopped
+2025-06-16T11:40:00	ETL	stopped
+2025-06-16T11:40:00	Filter_Wheel	stopped
+2025-06-16T11:40:00	LSHA_Actuator	stopped
+2025-06-16T11:40:00	ASI	stopped
+2025-06-16T11:40:00	Event_Logger	stopped
+2025-06-16T11:40:00	Error_Logger	stopped

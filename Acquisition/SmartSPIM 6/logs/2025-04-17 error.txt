@@ -1,0 +1,11 @@
+2025-04-17T16:09:26	ASI_TG-1000	error_code:-1073807298	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:serial command-response notifier.vi->ASI_TG-1000.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770003->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.1B00080
+2025-04-17T16:09:28	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:09:32	StageASI	error_code:-1073807298	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:serial command-response notifier.vi->ASI_TG-1000.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770003->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.1B00080
+2025-04-17T16:09:32	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:09:36	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:09:46	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:09:56	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:10:06	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:10:17	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:10:27	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout
+2025-04-17T16:10:37	ASI_TG-1000	error_code:42	VISA Read Until Character.vi<ERR> ASI read timeout

@@ -1,0 +1,7 @@
+2025-02-06T19:02:07	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-02-06T19:02:09	Test_Panels	error_code:1031	Open VI Reference in Test_Panels.lvclass:launch panel.vi->Test_Panels.lvclass:open panel.vi->Test_Panels.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770017->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.B5A0011F<APPEND> VI Name: <b>Test_Panels.lvclass:panel.stage.vi</b>
+2025-02-06T19:02:10	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-02-06T19:02:17	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-02-06T19:02:42	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-02-06T19:02:52	Imager	error_code:-1074395995	IMAQ ReadFile2   
+2025-02-06T19:03:25	Imager	error_code:-1074395995	IMAQ ReadFile2   

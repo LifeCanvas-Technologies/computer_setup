@@ -1,0 +1,6 @@
+2025-04-02T14:55:08	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.
+2025-04-02T20:47:50	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.
+2025-04-02T20:52:50	Imager	error_code:-2147483391	Imager.lvclass:Process.vi:5310001<ERR> TMERR_BUSY - The device is busy at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_getframe16_40.vi
+2025-04-02T20:52:55	Imager	error_code:-2147483391	TMERR_BUSY - The device is busy at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_getframe16_40.vi
+2025-04-02T20:53:08	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-04-02T21:34:45	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 3 were detected.

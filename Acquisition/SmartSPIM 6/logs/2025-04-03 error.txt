@@ -1,0 +1,1 @@
+2025-04-04T11:49:29	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":N-7" in response to "3V"

@@ -1,0 +1,2 @@
+2025-07-09T12:40:14	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "H=0 :N-196" in response to "pm h?"
+2025-07-09T12:40:14	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "H=0 :N-196" in response to "pm h?"

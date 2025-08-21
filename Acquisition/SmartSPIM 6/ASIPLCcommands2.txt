@@ -1,0 +1,56 @@
+;; anything after ';' is ignored
+
+; Configure PLC
+;BNC 1 = Laser 1
+;BNC 2 = Laser 2
+;BNC 3 = Laser 3
+;BNC 4 = Laser 4
+;BNC 5 = Camera 1
+;BNC 6 = Flip
+;BNC 7 = Piezo/ZStage
+;BNC 8 = Input from TLC
+
+;Configure PLC clock to trigger from TLC
+5 PM g=1; trigger on backplane-pin C7 input
+
+;Configure Input
+
+;m g=48 ;TTL7 backplane
+m g=40 ; BNC 8
+5 cca y=0
+
+;Configure Outputs
+
+;Lasers
+5 m g=33 ; BNC 1
+5 cca y=2 z=40; (0=off, 2=on)
+
+5 m g=34 ; BNC 2
+5 cca y=2 z=0; (0=off, 2=on)
+
+5 m g=35 ; BNC 3
+5 cca y=2 z=0; (0=off, 2=on)
+
+m g=36 ; BNC 4
+5 cca y=2 z=0; (0=off, 2=on)
+
+m g=37 ; BNC 5
+5 cca y=2 z=0; (0=off, 2=on)
+
+m g=38 ; BNC 6
+5 cca y=2 z=0; (0=off, 2=on)
+
+m g=39 ; BNC 7
+5 cca y=2 z=0; (0=off, 2=on)
+
+;;;;;;;;Configure Cells;;;;;;;;;;;
+
+;5 g e=1
+;
+;5 cca y=5 
+;5 ccb x=40 y=64
+
+
+
+
+

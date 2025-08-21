@@ -1,0 +1,14 @@
+2025-05-08T12:10:23	Imager	error_code:42	Filter_Wheel.lvclass:lookup filter position.vi<ERR> Named filter position "" not found.
+2025-05-08T12:10:24	Imager	error_code:42	Laser.lvclass:check valid wavelength.vi<ERR> Laser "0" not found.
+2025-05-08T12:10:28	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:30	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310001<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:30	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:33	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310001<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:33	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:33	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:35	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310001<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:35	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:38	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310001<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:38	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:40	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310001<ERR> IMAQ WritePNGFile
+2025-05-08T12:10:40	Imager	error_code:-1074395997	Imager.lvclass:Process.vi:5310001<ERR> Image_Processing.lvclass:Process.vi:5310002<ERR> IMAQ WritePNGFile

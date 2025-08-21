@@ -1,0 +1,8 @@
+2025-04-28T10:10:51	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "X=0  X: @ Normal Y: @ Long Z: @ Ext Long F: Home Long T: Home Ext Long R: Js btn Normal M: Js btn Long" in response to "1 bca x?"
+2025-04-28T10:10:51	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse "X=0  X: @ Normal Y: @ Long Z: @ Ext Long F: Home Long T: Home Ext Long R: Js btn Normal M: Js btn Long" in response to "1 bca x?"
+2025-04-28T10:12:47	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":Z=0 A" in response to "1 be z?"
+2025-04-28T10:12:47	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":Z=0 A" in response to "1 be z?"
+2025-04-28T10:16:27	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":X=4 A" in response to "1 be x?"
+2025-04-28T10:16:27	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":X=4 A" in response to "1 be x?"
+2025-04-28T11:55:31	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":Y=8 A" in response to "0BE Y?"
+2025-04-28T11:55:31	Test_Panels	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse ":Y=8 A" in response to "0BE Y?"

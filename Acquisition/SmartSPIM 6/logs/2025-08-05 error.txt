@@ -1,0 +1,2 @@
+2025-08-05T11:26:46	OSMightyZAP	error_code:-1073807343	VISA Open in mightyZAP.lvclass:connect.vi->OS.MightyZAP.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770012->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.E9E000A6
+2025-08-05T11:26:48	OSMightyZAP	error_code:-1073807346	VISA Write in mightyZAP.lvclass:write.vi->mightyZAP.lvclass:send.goal_position.vi->OS.MightyZAP.lvclass:Process.vi:5310001->SMO.lvclass:LaunchProcess.vi:3770012->SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.E9E000A6

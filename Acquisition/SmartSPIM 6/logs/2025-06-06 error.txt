@@ -1,0 +1,2 @@
+2025-06-06T00:25:34	Imager	error_code:42	Laser.lvclass:check valid wavelength.vi<ERR> Laser "561" not found.
+2025-06-06T10:46:01	Imager	error_code:42	Laser.lvclass:check valid wavelength.vi<ERR> Laser "561" not found.

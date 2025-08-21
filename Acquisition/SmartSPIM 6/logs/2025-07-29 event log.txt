@@ -1,0 +1,18 @@
+2025-07-29T20:13:43	Test_Panels	stopped
+2025-07-29T20:13:45	UI-Main	stopped
+2025-07-29T20:13:45	SPIM_App	stopped
+2025-07-29T20:13:45	Sequencer	stopped
+2025-07-29T20:13:46	SPIM_Control	stopped
+2025-07-29T20:13:46	Joystick	stopped
+2025-07-29T20:13:46	Imager	stopped
+2025-07-29T20:13:46	Optical_Configuration	stopped
+2025-07-29T20:13:46	OS.close	
+2025-07-29T20:13:46	OSMightyZAP	stopped
+2025-07-29T20:13:46	LSC	stopped
+2025-07-29T20:13:46	Focus	stopped
+2025-07-29T20:13:48	Stage	stopped
+2025-07-29T20:13:48	LaserVortran	stopped
+2025-07-29T20:13:48	Trigger	stopped
+2025-07-29T20:13:48	ETL	stopped
+2025-07-29T20:13:48	Filter_Wheel	stopped
+2025-07-29T20:13:48	LSHA_Actuator	stopped

@@ -1,0 +1,144 @@
+2025-02-21T13:27:17	ASI_TG-1000	starting
+2025-02-21T13:27:17	ASI	5 PM g=1	:N-7
+2025-02-21T13:27:17	ASI	m g=40 	:N-2
+2025-02-21T13:27:17	ASI	5 cca y=0	:N-7
+2025-02-21T13:27:17	ASI	5 m g=33 	:N-7
+2025-02-21T13:27:17	ASI	5 cca y=2 z=40	:N-7
+2025-02-21T13:27:17	ASI	5 m g=34 	:N-7
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	ASI	5 m g=35 	:N-7
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	ASI	m g=36 	:N-2
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	ASI	m g=37 	:N-2
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	ASI	m g=38 	:N-2
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	ASI	m g=39 	:N-2
+2025-02-21T13:27:17	ASI	5 cca y=2 z=0	:N-7
+2025-02-21T13:27:17	LSHA_ActuatorASI	starting
+2025-02-21T13:27:17	Filter_WheelASI	starting
+2025-02-21T13:27:17	ASI	HO	HO    0>
+2025-02-21T13:27:17	ETLASI	starting
+2025-02-21T13:27:18	TriggerASI	starting
+2025-02-21T13:27:18	LaserVortran	starting
+2025-02-21T13:27:18	ASI	M H=1200	:A
+2025-02-21T13:27:18	ASI	M I=1200	:A
+2025-02-21T13:27:18	ASI	M J=1200	:A
+2025-02-21T13:27:18	ASI	M K=1200	:A
+2025-02-21T13:27:18	StageASI	starting
+2025-02-21T13:27:18	Focus	starting
+2025-02-21T13:27:18	LSC	starting
+2025-02-21T13:27:18	OSMightyZAP	starting
+2025-02-21T13:27:18	OS.open	
+2025-02-21T13:27:18	Optical_Configuration	starting
+2025-02-21T13:27:18	Imager	starting
+2025-02-21T13:27:19	Imager.imaging speed change	FAST
+2025-02-21T13:27:19	LSC.ETL period write	50
+2025-02-21T13:27:19	ASI	SAF v=50 w=50	:A
+2025-02-21T13:27:19	ASI	m e=3 	:A
+2025-02-21T13:27:19	ASI	6 cca y=9 z=195	:A
+2025-02-21T13:27:19	ASI	6 ccb x=2 y=192	:A
+2025-02-21T13:27:19	ASI	m e=4 	:A
+2025-02-21T13:27:19	ASI	6 cca y=8 z=201	:A
+2025-02-21T13:27:19	ASI	6 ccb x=3 y=192	:A
+2025-02-21T13:27:19	Imager.sampling multiplier change	1.000000
+2025-02-21T13:27:19	JoystickASI	starting
+2025-02-21T13:27:19	ASI	J X+ Y+ Z+ F+	:A
+2025-02-21T13:27:19	ASI	J N-	:A
+2025-02-21T13:27:19	SPIM_Control	starting
+2025-02-21T13:27:19	SPIM_App	starting
+2025-02-21T13:27:20	Imager.filter position go	561F
+2025-02-21T13:27:20	LSC.filter position go	561F
+2025-02-21T13:27:20	ASI	MP 2	2MP 2  2  0>
+2025-02-21T13:27:20	Imager.immersion.set	1.52+
+2025-02-21T13:27:20	Imager.focus dynamic adjustment off	
+2025-02-21T13:27:20	Imager.objective lens change	LCT 3.6x
+2025-02-21T13:27:20	OS : UL.move	FALSE
+2025-02-21T13:27:20	OS : LL.move	TRUE
+2025-02-21T13:27:20	OS : UR.move	FALSE
+2025-02-21T13:27:20	OS : LR.move	TRUE
+2025-02-21T13:27:20	Imager.focus dynamic adjustment off	
+2025-02-21T13:27:20	Imager.laser active change	561
+2025-02-21T13:27:20	LSC.laser active change	561
+2025-02-21T13:27:20	ASI	m e=33	:A
+2025-02-21T13:27:20	ASI	6 cca y=2 z=0	:A
+2025-02-21T13:27:20	ASI	m e=34	:A
+2025-02-21T13:27:20	ASI	6 cca y=2 z=0	:A
+2025-02-21T13:27:20	ASI	m e=35	:A
+2025-02-21T13:27:20	ASI	6 cca y=2 z=4	:A
+2025-02-21T13:27:20	ASI	m e=36	:A
+2025-02-21T13:27:20	ASI	6 cca y=2 z=0	:A
+2025-02-21T13:27:20	Imager.imaging speed change	FAST
+2025-02-21T13:27:20	LSC.ETL period write	50
+2025-02-21T13:27:20	ASI	SAF v=50 w=50	:A
+2025-02-21T13:27:20	ASI	m e=3 	:A
+2025-02-21T13:27:20	ASI	6 cca y=9 z=195	:A
+2025-02-21T13:27:20	ASI	6 ccb x=2 y=192	:A
+2025-02-21T13:27:20	ASI	m e=4 	:A
+2025-02-21T13:27:20	ASI	6 cca y=8 z=201	:A
+2025-02-21T13:27:20	ASI	6 ccb x=3 y=192	:A
+2025-02-21T13:27:20	Imager.laser path change	right
+2025-02-21T13:27:20	LSC.laser path change	right
+2025-02-21T13:27:20	ASI	m m=1	:A
+2025-02-21T13:27:20	ASI	M H=1200	:A
+2025-02-21T13:27:20	ASI	M I=1200	:A
+2025-02-21T13:27:20	ASI	M J=1200	:A
+2025-02-21T13:27:21	ASI	M K=1200	:A
+2025-02-21T13:27:21	Imager.scan parameters apply	{"imaging speed":"FAST","objective":"LCT 3.6x","immersion":"1.52+","path":"right","laser":"561","scan parameter":"Amp"}
+2025-02-21T13:27:21	LSC.trigger delay-write	26
+2025-02-21T13:27:21	LSC.ETL offset write	982.000000
+2025-02-21T13:27:21	LSC.ETL amplitude write	1210.000000
+2025-02-21T13:27:21	ASI	m e=1	:A
+2025-02-21T13:27:21	ASI	6 cca y=9 z=104	:A
+2025-02-21T13:27:21	ASI	6 ccb x=40 y=192	:A
+2025-02-21T13:27:21	ASI	SAO W=982.000	:A
+2025-02-21T13:27:21	ASI	SAA W = 1210.00	:A
+2025-02-21T13:27:21	UI-Main	starting
+2025-02-21T13:27:21	Test_Panels	starting
+2025-02-21T13:27:21	startup	startup finished
+2025-02-21T13:27:37	ASI	J Z- V- W-	:A
+2025-02-21T13:27:49	Imager.laser lens remove	
+2025-02-21T13:27:49	OS : UL.move	FALSE
+2025-02-21T13:27:49	OS : LL.move	FALSE
+2025-02-21T13:27:49	OS : UR.move	FALSE
+2025-02-21T13:27:49	OS : LR.move	FALSE
+2025-02-21T13:27:58	Imager.laser path change	right
+2025-02-21T13:27:58	LSC.laser path change	right
+2025-02-21T13:27:58	ASI	m m=1	:A
+2025-02-21T13:27:58	ASI	M H=1200	:A
+2025-02-21T13:27:58	ASI	M I=1200	:A
+2025-02-21T13:27:58	ASI	M J=1200	:A
+2025-02-21T13:27:58	ASI	M K=1200	:A
+2025-02-21T13:27:58	Imager.scan parameters apply	{"imaging speed":"FAST","objective":"LCT 3.6x","immersion":"1.52+","path":"right","laser":"561","scan parameter":"Amp"}
+2025-02-21T13:27:58	LSC.trigger delay-write	26
+2025-02-21T13:27:58	LSC.ETL amplitude write	1210.000000
+2025-02-21T13:27:58	LSC.ETL offset write	982.000000
+2025-02-21T13:27:58	ASI	m e=1	:A
+2025-02-21T13:27:58	ASI	6 cca y=9 z=104	:A
+2025-02-21T13:27:58	ASI	6 ccb x=40 y=192	:A
+2025-02-21T13:27:58	ASI	SAA W = 1210.00	:A
+2025-02-21T13:27:58	ASI	SAO W=982.000	:A
+2025-02-21T13:27:58	Imager.acquisition stop	
+2025-02-21T13:27:58	Imager.ETL start stop control	FALSE
+2025-02-21T13:27:58	LSC.ETL start stop control	FALSE
+2025-02-21T13:27:58	ASI	SAM V=0 W=0	:A
+2025-02-21T13:27:58	Imager.focus dynamic adjustment off	
+2025-02-21T13:28:22	Test_Panels	stopped
+2025-02-21T13:28:23	UI-Main	stopped
+2025-02-21T13:28:23	SPIM_App	stopped
+2025-02-21T13:28:23	SPIM_Control	stopped
+2025-02-21T13:28:23	JoystickASI	stopped
+2025-02-21T13:28:23	Imager	stopped
+2025-02-21T13:28:23	Optical_Configuration	stopped
+2025-02-21T13:28:23	OS.close	
+2025-02-21T13:28:23	OSMightyZAP	stopped
+2025-02-21T13:28:23	LSC	stopped
+2025-02-21T13:28:23	Focus	stopped
+2025-02-21T13:28:25	StageASI	stopped
+2025-02-21T13:28:25	LaserVortran	stopped
+2025-02-21T13:28:25	TriggerASI	stopped
+2025-02-21T13:28:25	ASI	SAM V=0 W=0	:A
+2025-02-21T13:28:25	ETLASI	stopped
+2025-02-21T13:28:25	Filter_WheelASI	stopped
+2025-02-21T13:28:25	LSHA_ActuatorASI	stopped

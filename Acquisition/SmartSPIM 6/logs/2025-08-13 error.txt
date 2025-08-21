@@ -1,0 +1,1 @@
+2025-08-13T14:41:57	Imager	error_code:-2147481567	TMERR_INVALIDVALUE - The selected value is not valid for this function at C:\Program Files\SmartSPIM 6\SmartSPIM 6.exe\1abvi3w\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi

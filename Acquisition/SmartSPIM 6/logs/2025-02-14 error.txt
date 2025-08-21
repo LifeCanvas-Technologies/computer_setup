@@ -1,0 +1,17 @@
+2025-02-14T11:25:18	StageASI	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:18	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:18	ASI_TG-1000	error_code:6000	ASI TG-1000.lvlib:Parse Serial Response.vi<ERR> Couldn't parse following response: ":N-7"
+2025-02-14T11:25:18	Filter_WheelASI	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:18	LaserVortran	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:19	Imager	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:20	JoystickASI	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:28	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:38	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T11:25:48	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-14T12:21:44	Imager	error_code:-2147481593	TMERR_INVALIDHANDLE - The camera handle is not valid at C:\Program Files\National Instruments\LabVIEW 2023\user.lib\Hamamatsu Video Capture\tm_setparameter_40.vi
+2025-02-14T12:44:19	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-14T12:53:24	Test_Panels	error_code:91	SubVI in LSHA_Actuator.ASI.lvclass:move absolute.vi->LSC.lvclass:LSHA actuator move.vi->Imager.lvclass:LSHA actuator move.vi->Test_Panels.lvclass:panel.imager.vi->Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.76B00140
+2025-02-14T12:55:17	Test_Panels	error_code:91	SubVI in LSHA_Actuator.ASI.lvclass:move absolute.vi->LSC.lvclass:LSHA actuator move.vi->Imager.lvclass:LSHA actuator move.vi->Test_Panels.lvclass:panel.imager.vi->Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.76B00140
+2025-02-14T12:56:40	Test_Panels	error_code:91	SubVI in LSHA_Actuator.ASI.lvclass:move absolute.vi->LSC.lvclass:LSHA actuator move.vi->Imager.lvclass:LSHA actuator move.vi->Test_Panels.lvclass:panel.imager.vi->Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.8D300122
+2025-02-14T12:59:48	Test_Panels	error_code:91	SubVI in LSHA_Actuator.ASI.lvclass:configuration.get.vi->LSHA_Actuator.ASI.lvclass:move absolute.vi->LSC.lvclass:LSHA actuator move.vi->Imager.lvclass:LSHA actuator move.vi->Test_Panels.lvclass:panel.imager.vi->Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.BAF0012A
+2025-02-14T13:00:01	Test_Panels	error_code:91	SubVI in LSHA_Actuator.ASI.lvclass:configuration.get.vi->LSHA_Actuator.ASI.lvclass:move absolute.vi->LSC.lvclass:LSHA actuator move.vi->Imager.lvclass:LSHA actuator move.vi->Test_Panels.lvclass:panel.imager.vi->Test_Panels.lvclass:panel.imager.vi.ACBRProxyCaller.BAF0012A

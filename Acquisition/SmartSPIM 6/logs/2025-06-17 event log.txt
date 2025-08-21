@@ -1,0 +1,1794 @@
+2025-06-17T13:00:46	ASI	starting
+2025-06-17T13:00:46	ASI	9 ttl y=22 	:A
+2025-06-17T13:00:46	ASI	SAP v=32 w=32 	:A
+2025-06-17T13:00:46	ASI	SAA v=2000 w=2000 	:A
+2025-06-17T13:00:46	ASI	SAF v=50 w=50 	:A
+2025-06-17T13:00:46	ASI	SAO v=0 w=0	:A
+2025-06-17T13:00:46	ASI	6 PM E=0	:A
+2025-06-17T13:00:46	ASI	m e=40 	:A
+2025-06-17T13:00:46	ASI	6 cca y=0	:A
+2025-06-17T13:00:46	ASI	m e=33 	:A
+2025-06-17T13:00:46	ASI	6 cca y=2 z=4	:A
+2025-06-17T13:00:46	ASI	m e=34 	:A
+2025-06-17T13:00:46	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:46	ASI	m e=35 	:A
+2025-06-17T13:00:47	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:47	ASI	m e=36 	:A
+2025-06-17T13:00:47	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:47	ASI	m e=37 	:A
+2025-06-17T13:00:47	ASI	6 cca y=2 z=2	:A
+2025-06-17T13:00:47	ASI	m e=38 	:A
+2025-06-17T13:00:47	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:47	ASI	m e=39 	:A
+2025-06-17T13:00:47	ASI	6 cca y=2 z=8	:A
+2025-06-17T13:00:47	ASI	m e=1	:A
+2025-06-17T13:00:47	ASI	6 cca y=9 z=25	:A
+2025-06-17T13:00:47	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:00:47	ASI	m e=2	:A
+2025-06-17T13:00:47	ASI	6 cca y=8 z=112	:A
+2025-06-17T13:00:47	ASI	6 ccb x=1 y=192	:A
+2025-06-17T13:00:47	ASI	m e=3	:A
+2025-06-17T13:00:47	ASI	6 cca y=9 z=45	:A
+2025-06-17T13:00:47	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:00:48	ASI	m e=4	:A
+2025-06-17T13:00:48	ASI	6 cca y=8 z=55	:A
+2025-06-17T13:00:48	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:00:48	ASI	m e=5	:A
+2025-06-17T13:00:48	ASI	6 cca y=5 	:A
+2025-06-17T13:00:48	ASI	6 ccb x=2 y=4	:A
+2025-06-17T13:00:48	ASI	m e=6	:A
+2025-06-17T13:00:48	ASI	6 cca y=8 z=301	:A
+2025-06-17T13:00:48	ASI	6 ccb x=4 y=5	:A
+2025-06-17T13:00:48	ASI	m e=7	:A
+2025-06-17T13:00:48	ASI	6 cca y=5 	:A
+2025-06-17T13:00:48	ASI	6 ccb x=5 y=6	:A
+2025-06-17T13:00:48	ASI	m e=8	:A
+2025-06-17T13:00:48	ASI	6 cca y=9 z=112	:A
+2025-06-17T13:00:48	ASI	6 ccb x=7 y=192	:A
+2025-06-17T13:00:48	ASI	m e=9	:A
+2025-06-17T13:00:48	ASI	6 cca y=5 	:A
+2025-06-17T13:00:48	ASI	6 ccb x=4 y=6	:A
+2025-06-17T13:00:48	ASI	j z=23 f=22 m=0 n=0 v=0 w=0	:A
+2025-06-17T13:00:48	ASI	s x=1.7 y=1.7 z=1.7 f=1.7 	:A
+2025-06-17T13:00:48	ASI	1 js x=80 y=80	:A
+2025-06-17T13:00:48	ASI	2 js f=10 t=10	:A
+2025-06-17T13:00:48	ASI	b v=0 w=0	:A
+2025-06-17T13:00:48	ASI	j v=0 w=0	:A
+2025-06-17T13:00:49	ASI	j z=23 f=22	:A
+2025-06-17T13:00:49	ASI	9 js f=0.3 t=0.3	:A
+2025-06-17T13:00:49	ASI	s m=20	:A
+2025-06-17T13:00:49	ASI	2 TTL x=2 y=2	:A
+2025-06-17T13:00:49	ASI	2 TTL x=0	:A
+2025-06-17T13:00:49	ASI	pc z=0.0002	:A
+2025-06-17T13:00:49	ASI	e z=0.0004	:A
+2025-06-17T13:00:49	ASI	ac z=25	:A
+2025-06-17T13:00:49	ASI	kv z=85	:A
+2025-06-17T13:00:49	ASI	ka z=0	:A
+2025-06-17T13:00:49	ASI	kp z=200	:A
+2025-06-17T13:00:49	ASI	5 PM g=1	:N-7
+2025-06-17T13:00:49	ASI	m g=40 	:N-2
+2025-06-17T13:00:49	ASI	5 cca y=0	:N-7
+2025-06-17T13:00:49	ASI	5 m g=33 	:N-7
+2025-06-17T13:00:49	ASI	5 cca y=2 z=40	:N-7
+2025-06-17T13:00:49	ASI	5 m g=34 	:N-7
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	ASI	5 m g=35 	:N-7
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	ASI	m g=36 	:N-2
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	ASI	m g=37 	:N-2
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	ASI	m g=38 	:N-2
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	ASI	m g=39 	:N-2
+2025-06-17T13:00:49	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T13:00:49	LSHA_Actuator	starting
+2025-06-17T13:00:49	Filter_Wheel	starting
+2025-06-17T13:00:49	ASI	HO	HO    0>
+2025-06-17T13:00:49	ETL	starting
+2025-06-17T13:00:49	Trigger	starting
+2025-06-17T13:00:49	LaserVortran	starting
+2025-06-17T13:00:49	ASI	M H=1200	:A
+2025-06-17T13:00:49	ASI	M I=1200	:A
+2025-06-17T13:00:49	ASI	M J=1200	:A
+2025-06-17T13:00:50	Stage	starting
+2025-06-17T13:00:50	Focus	starting
+2025-06-17T13:00:50	LSC	starting
+2025-06-17T13:00:50	OSMightyZAP	starting
+2025-06-17T13:00:50	OS.open	
+2025-06-17T13:00:50	Optical_Configuration	starting
+2025-06-17T13:00:50	Imager	starting
+2025-06-17T13:00:52	Imager.change objective lens	LCT 3.6x
+2025-06-17T13:00:52	OS : UL.move	FALSE
+2025-06-17T13:00:52	OS : LL.move	TRUE
+2025-06-17T13:00:52	OS : UR.move	FALSE
+2025-06-17T13:00:52	OS : LR.move	TRUE
+2025-06-17T13:00:52	Imager.change laser path	right
+2025-06-17T13:00:52	LSC.laser path change	right
+2025-06-17T13:00:52	ASI	m m=1	:A
+2025-06-17T13:00:52	ASI	M H=1960	:A
+2025-06-17T13:00:52	ASI	M I=1960	:A
+2025-06-17T13:00:52	ASI	M J=1960	:A
+2025-06-17T13:00:52	Imager.filter position go to	561F
+2025-06-17T13:00:52	LSC.filter position go	561F
+2025-06-17T13:00:52	ASI	MP 1	1MP 1  1  0>
+2025-06-17T13:00:52	Imager.change imaging speed	FAST
+2025-06-17T13:00:52	LSC.ETL period write	50
+2025-06-17T13:00:52	ASI	SAF v=50 w=50	:A
+2025-06-17T13:00:52	ASI	m e=3 	:A
+2025-06-17T13:00:53	ASI	6 cca y=9 z=195	:A
+2025-06-17T13:00:53	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:00:53	ASI	m e=4 	:A
+2025-06-17T13:00:53	ASI	6 cca y=8 z=201	:A
+2025-06-17T13:00:53	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:00:53	Imager.change laser to default	
+2025-06-17T13:00:53	LSC.laser active change to default	
+2025-06-17T13:00:53	ASI	m e=33	:A
+2025-06-17T13:00:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:53	ASI	m e=34	:A
+2025-06-17T13:00:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:53	ASI	m e=35	:A
+2025-06-17T13:00:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:00:53	Imager.sampling multiplier change	1.000000
+2025-06-17T13:00:53	Joystick	starting
+2025-06-17T13:00:53	ASI	J N=0 V=0 W=0 X=0 Y=0	:A
+2025-06-17T13:00:53	ASI	J Z=23 F=22	:A
+2025-06-17T13:00:53	SPIM_Control	starting
+2025-06-17T13:00:53	Sequencer	starting
+2025-06-17T13:00:54	SPIM_App	starting
+2025-06-17T13:00:54	UI-Main	starting
+2025-06-17T13:00:54	Imager.LSHA position	
+2025-06-17T13:00:54	ASI	W N	:A 0
+2025-06-17T13:00:54	LSC.LSHA position	0.000000
+2025-06-17T13:00:54	Sequencer.select step	sample_1	DDF86303-6E4C-4304-9F89-DC1376DF83A4
+2025-06-17T13:00:54	Imager.focus map update	
+2025-06-17T13:00:54	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:00:54	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:00:54	ASI	M H=1960	:A
+2025-06-17T13:00:54	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:00:54	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:00:54	ASI	M I=1960	:A
+2025-06-17T13:00:54	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:00:54	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:00:54	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:00:54	ASI	M J=1960	:A
+2025-06-17T13:00:54	Imager.LSHA move	0.000000
+2025-06-17T13:00:54	LSC.LSHA actuator move	0.000000
+2025-06-17T13:00:54	ASI	M N=0	:A
+2025-06-17T13:00:54	Test_Panels	starting
+2025-06-17T13:00:54	startup	finished
+2025-06-17T13:02:56	ASI	J Z=23 F=22 X=2 Y=3	:A
+2025-06-17T13:02:56	ASI	J N=0 V=0 W=0	:A
+2025-06-17T13:02:56	Imager.focus dynamic adjustment off	
+2025-06-17T13:02:56	Imager.change laser path	right
+2025-06-17T13:02:56	LSC.laser path change	right
+2025-06-17T13:02:57	ASI	m m=1	:A
+2025-06-17T13:02:57	ASI	M H=1960	:A
+2025-06-17T13:02:57	ASI	M I=1960	:A
+2025-06-17T13:02:57	ASI	M J=1960	:A
+2025-06-17T13:02:57	LSC.ETL amplitude write	2650.000000
+2025-06-17T13:02:57	ASI	SAA W = 2650.00	:A
+2025-06-17T13:02:57	LSC.trigger delay write	16
+2025-06-17T13:02:57	ASI	m e=1	:A
+2025-06-17T13:02:57	ASI	6 cca y=9 z=64	:A
+2025-06-17T13:02:57	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:02:57	LSC.ETL offset write	4314.063000
+2025-06-17T13:02:57	ASI	SAO W=4314.063	:A
+2025-06-17T13:02:57	Imager.scan prepare	
+2025-06-17T13:02:57	LSC.ETL period write	50
+2025-06-17T13:02:57	ASI	SAF v=50 w=50	:A
+2025-06-17T13:02:57	ASI	m e=3 	:A
+2025-06-17T13:02:57	ASI	6 cca y=9 z=195	:A
+2025-06-17T13:02:57	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:02:57	ASI	m e=4 	:A
+2025-06-17T13:02:57	ASI	6 cca y=8 z=201	:A
+2025-06-17T13:02:57	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:02:57	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T13:02:57	ASI	m e=2	:A
+2025-06-17T13:02:57	ASI	6 cca y=8 z=116	:A
+2025-06-17T13:02:57	ASI	6 ccb x=1 y=192	:A
+2025-06-17T13:02:57	ASI	m e=8	:A
+2025-06-17T13:02:57	ASI	6 cca y=9 z=96	:A
+2025-06-17T13:02:57	ASI	6 ccb x=7 y=192	:A
+2025-06-17T13:02:57	ASI	2 TTL x=0	:A
+2025-06-17T13:02:57	Imager.ETL control	TRUE
+2025-06-17T13:02:57	LSC.ETL start stop control	TRUE
+2025-06-17T13:02:57	ASI	SAM W=1	:A
+2025-06-17T13:02:57	ASI	AC Z=100	:A
+2025-06-17T13:02:57	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T13:02:59	ASI	J X=0 Y=0 Z=0 F=0 N=0	:A
+2025-06-17T13:02:59	Imager.acquisition stop	
+2025-06-17T13:02:59	Imager.ETL control	FALSE
+2025-06-17T13:02:59	LSC.ETL start stop control	FALSE
+2025-06-17T13:02:59	ASI	SAM V=0 W=0	:A
+2025-06-17T13:03:04	ASI	J X=0 Y=0 Z=0 F=0 N=0	:A
+2025-06-17T13:03:04	LSC.ETL amplitude write	2650.000000
+2025-06-17T13:03:04	ASI	SAA W = 2650.00	:A
+2025-06-17T13:03:04	LSC.trigger delay write	16
+2025-06-17T13:03:04	ASI	m e=1	:A
+2025-06-17T13:03:04	ASI	6 cca y=9 z=64	:A
+2025-06-17T13:03:04	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:03:04	LSC.ETL offset write	4314.063000
+2025-06-17T13:03:04	ASI	SAO W=4314.063	:A
+2025-06-17T13:03:04	Imager.scan prepare	
+2025-06-17T13:03:04	LSC.ETL period write	50
+2025-06-17T13:03:04	ASI	SAF v=50 w=50	:A
+2025-06-17T13:03:04	ASI	m e=3 	:A
+2025-06-17T13:03:04	ASI	6 cca y=9 z=195	:A
+2025-06-17T13:03:04	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:03:04	ASI	m e=4 	:A
+2025-06-17T13:03:04	ASI	6 cca y=8 z=201	:A
+2025-06-17T13:03:04	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:03:04	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T13:03:04	ASI	m e=2	:A
+2025-06-17T13:03:04	ASI	6 cca y=8 z=116	:A
+2025-06-17T13:03:04	ASI	6 ccb x=1 y=192	:A
+2025-06-17T13:03:04	ASI	m e=8	:A
+2025-06-17T13:03:04	ASI	6 cca y=9 z=96	:A
+2025-06-17T13:03:04	ASI	6 ccb x=7 y=192	:A
+2025-06-17T13:03:04	ASI	2 TTL x=0	:A
+2025-06-17T13:03:04	Imager.ETL control	TRUE
+2025-06-17T13:03:04	LSC.ETL start stop control	TRUE
+2025-06-17T13:03:04	ASI	SAM W=1	:A
+2025-06-17T13:03:04	ASI	AC Z=100	:A
+2025-06-17T13:03:04	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T13:03:05	Imager.acquisition stop	
+2025-06-17T13:03:05	Imager.ETL control	FALSE
+2025-06-17T13:03:05	LSC.ETL start stop control	FALSE
+2025-06-17T13:03:05	ASI	SAM V=0 W=0	:A
+2025-06-17T13:03:09	Imager.change laser path	left
+2025-06-17T13:03:09	LSC.laser path change	left
+2025-06-17T13:03:09	ASI	m m=2	:A
+2025-06-17T13:03:09	ASI	M H=1960	:A
+2025-06-17T13:03:09	ASI	M I=1960	:A
+2025-06-17T13:03:09	ASI	M J=1960	:A
+2025-06-17T13:03:09	LSC.ETL amplitude write	4650.000000
+2025-06-17T13:03:09	ASI	SAA V = 4650.00	:A
+2025-06-17T13:03:09	LSC.trigger delay write	16
+2025-06-17T13:03:09	ASI	m e=1	:A
+2025-06-17T13:03:09	ASI	6 cca y=9 z=64	:A
+2025-06-17T13:03:09	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:03:09	LSC.ETL offset write	4700.937000
+2025-06-17T13:03:09	ASI	SAO V=4700.937	:A
+2025-06-17T13:03:09	Imager.scan prepare	
+2025-06-17T13:03:09	LSC.ETL period write	50
+2025-06-17T13:03:09	ASI	SAF v=50 w=50	:A
+2025-06-17T13:03:09	ASI	m e=3 	:A
+2025-06-17T13:03:09	ASI	6 cca y=9 z=195	:A
+2025-06-17T13:03:09	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:03:09	ASI	m e=4 	:A
+2025-06-17T13:03:09	ASI	6 cca y=8 z=201	:A
+2025-06-17T13:03:09	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:03:09	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T13:03:10	ASI	m e=2	:A
+2025-06-17T13:03:10	ASI	6 cca y=8 z=116	:A
+2025-06-17T13:03:10	ASI	6 ccb x=1 y=192	:A
+2025-06-17T13:03:10	ASI	m e=8	:A
+2025-06-17T13:03:10	ASI	6 cca y=9 z=96	:A
+2025-06-17T13:03:10	ASI	6 ccb x=7 y=192	:A
+2025-06-17T13:03:10	ASI	2 TTL x=0	:A
+2025-06-17T13:03:10	Imager.ETL control	TRUE
+2025-06-17T13:03:10	LSC.ETL start stop control	TRUE
+2025-06-17T13:03:10	ASI	SAM V=1	:A
+2025-06-17T13:03:10	ASI	AC Z=100	:A
+2025-06-17T13:03:10	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T13:03:10	ASI	J Z=0 F=0	:A
+2025-06-17T13:03:10	ASI	J N=22	:A
+2025-06-17T13:03:14	Imager.LSHA position	
+2025-06-17T13:03:14	ASI	W N	:A 1
+2025-06-17T13:03:14	LSC.LSHA position	0.100000
+2025-06-17T13:03:14	Sequencer.Process	DDF86303-6E4C-4304-9F89-DC1376DF83A4 aligned 0.100
+2025-06-17T13:03:14	Imager.acquisition stop	
+2025-06-17T13:03:14	Imager.ETL control	FALSE
+2025-06-17T13:03:14	LSC.ETL start stop control	FALSE
+2025-06-17T13:03:14	ASI	SAM V=0 W=0	:A
+2025-06-17T13:03:14	ASI	J X=0 Y=0	:A
+2025-06-17T13:03:14	ASI	J Z=23 F=22	:A
+2025-06-17T13:03:14	ASI	J N=0 V=0 W=0	:A
+2025-06-17T13:03:14	Imager.change laser path	right
+2025-06-17T13:03:14	LSC.laser path change	right
+2025-06-17T13:03:14	ASI	m m=1	:A
+2025-06-17T13:03:14	ASI	M H=1960	:A
+2025-06-17T13:03:14	ASI	M I=1960	:A
+2025-06-17T13:03:14	ASI	M J=1960	:A
+2025-06-17T13:03:16	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:16	Imager.change laser path	right
+2025-06-17T13:03:16	LSC.laser path change	right
+2025-06-17T13:03:17	ASI	m m=1	:A
+2025-06-17T13:03:17	ASI	M H=1960	:A
+2025-06-17T13:03:17	ASI	M I=1960	:A
+2025-06-17T13:03:17	ASI	M J=1960	:A
+2025-06-17T13:03:19	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:19	Imager.acquisition stop	
+2025-06-17T13:03:19	Imager.ETL control	FALSE
+2025-06-17T13:03:19	LSC.ETL start stop control	FALSE
+2025-06-17T13:03:25	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:25	Imager.change laser path	right
+2025-06-17T13:03:25	LSC.laser path change	right
+2025-06-17T13:03:25	ASI	m m=1	:A
+2025-06-17T13:03:25	ASI	M H=1960	:A
+2025-06-17T13:03:25	ASI	M I=1960	:A
+2025-06-17T13:03:25	ASI	M J=1960	:A
+2025-06-17T13:03:26	Imager.change laser wavelength	640
+2025-06-17T13:03:26	LSC.laser active change	640
+2025-06-17T13:03:26	ASI	m e=33	:A
+2025-06-17T13:03:26	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:26	ASI	m e=34	:A
+2025-06-17T13:03:26	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:26	ASI	m e=35	:A
+2025-06-17T13:03:26	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:26	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:28	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:28	Imager.acquisition stop	
+2025-06-17T13:03:28	Imager.ETL control	FALSE
+2025-06-17T13:03:28	LSC.ETL start stop control	FALSE
+2025-06-17T13:03:32	Sequencer.sequence start	not saved
+2025-06-17T13:03:32	Imager.focus dynamic adjustment off	
+2025-06-17T13:03:32	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T13:03:32	Imager.focus map update	
+2025-06-17T13:03:32	Imager.save blank image	{"image folder":"D:\\SmartSPIM_Data\\2025_06_17\\20250617_13_03_32_sample_1\\Ex_640_Em_640F\\479500\\479500_281140","image folder max":"D:\\SmartSPIM_Data\\2025_06_17\\20250617_13_03_32_sample_1\\Ex_640_Em_640F_MIP\\479500\\479500_281140","crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}
+2025-06-17T13:03:32	ASI	M X=-11895 Y=218858 Z=20000	:A
+2025-06-17T13:03:32	Imager.filter position go to	640F
+2025-06-17T13:03:32	LSC.filter position go	640F
+2025-06-17T13:03:32	ASI	MP 2	2MP 2  2  0>
+2025-06-17T13:03:32	Imager.change laser path	left
+2025-06-17T13:03:32	LSC.laser path change	left
+2025-06-17T13:03:32	ASI	m m=2	:A
+2025-06-17T13:03:32	ASI	M H=1960	:A
+2025-06-17T13:03:32	ASI	M I=1960	:A
+2025-06-17T13:03:32	ASI	M J=1960	:A
+2025-06-17T13:03:32	Imager.change laser wavelength	640
+2025-06-17T13:03:32	LSC.laser active change	640
+2025-06-17T13:03:33	ASI	m e=33	:A
+2025-06-17T13:03:33	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:33	ASI	m e=34	:A
+2025-06-17T13:03:33	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:33	ASI	m e=35	:A
+2025-06-17T13:03:33	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:03:33	LSC.ETL amplitude write	4650.000000
+2025-06-17T13:03:33	ASI	SAA V = 4650.00	:A
+2025-06-17T13:03:33	LSC.trigger delay write	16
+2025-06-17T13:03:33	ASI	m e=1	:A
+2025-06-17T13:03:33	ASI	6 cca y=9 z=64	:A
+2025-06-17T13:03:33	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:03:33	LSC.ETL offset write	4700.918000
+2025-06-17T13:03:33	ASI	SAO V=4700.918	:A
+2025-06-17T13:03:41	Sequencer.sequence stop	
+2025-06-17T13:03:41	Imager.acquisition abort	
+2025-06-17T13:03:41	Imager.ETL control	FALSE
+2025-06-17T13:03:41	LSC.ETL start stop control	FALSE
+2025-06-17T13:03:41	ASI	2 TTL x=0	:A
+2025-06-17T13:03:41	ASI	J Z=23 F=22	:A
+2025-06-17T13:47:43	Imager.LSHA position	
+2025-06-17T13:47:43	ASI	W N	:A 1
+2025-06-17T13:47:43	LSC.LSHA position	0.100000
+2025-06-17T13:47:43	Sequencer.select step	sample_2	E7680B50-7685-4586-8FE2-1915080CFFBB
+2025-06-17T13:47:43	Imager.focus map update	
+2025-06-17T13:47:43	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:43	ASI	M H=1960	:A
+2025-06-17T13:47:43	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:43	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:43	ASI	M I=1960	:A
+2025-06-17T13:47:43	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:43	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:43	ASI	M J=1960	:A
+2025-06-17T13:47:43	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:43	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:43	Imager.LSHA move	0.100000
+2025-06-17T13:47:43	LSC.LSHA actuator move	0.100000
+2025-06-17T13:47:43	ASI	M N=1	:A
+2025-06-17T13:47:53	Sequencer.select step	sample_2	E7680B50-7685-4586-8FE2-1915080CFFBB
+2025-06-17T13:47:53	Imager.focus map update	
+2025-06-17T13:47:53	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:53	ASI	M H=1960	:A
+2025-06-17T13:47:53	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T13:47:53	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:53	ASI	M I=1960	:A
+2025-06-17T13:47:53	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T13:47:53	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:53	ASI	M J=1960	:A
+2025-06-17T13:47:53	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:53	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T13:47:53	Imager.LSHA move	0.100000
+2025-06-17T13:47:53	LSC.LSHA actuator move	0.100000
+2025-06-17T13:47:53	ASI	M N=1	:A
+2025-06-17T13:48:07	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:10	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:10	Imager.acquisition stop	
+2025-06-17T13:48:10	Imager.ETL control	FALSE
+2025-06-17T13:48:10	LSC.ETL start stop control	FALSE
+2025-06-17T13:48:10	ASI	J Z=23 F=22	:A
+2025-06-17T13:48:10	ASI	J N=0 V=0 W=0	:A
+2025-06-17T13:48:10	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T13:48:10	Imager.change objective lens	LCT 3.6x
+2025-06-17T13:48:10	OS : UL.move	FALSE
+2025-06-17T13:48:10	OS : LL.move	TRUE
+2025-06-17T13:48:10	OS : UR.move	FALSE
+2025-06-17T13:48:10	OS : LR.move	TRUE
+2025-06-17T13:48:10	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:10	Imager.filter change to match laser	
+2025-06-17T13:48:10	LSC.filter change to match laser	
+2025-06-17T13:48:10	ASI	MP 2	2MP 2  2  0>
+2025-06-17T13:48:10	Imager.change laser path	right
+2025-06-17T13:48:10	LSC.laser path change	right
+2025-06-17T13:48:10	ASI	m m=1	:A
+2025-06-17T13:48:10	ASI	M H=1960	:A
+2025-06-17T13:48:10	ASI	M I=1960	:A
+2025-06-17T13:48:10	ASI	M J=1960	:A
+2025-06-17T13:48:13	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:13	Imager.change laser path	right
+2025-06-17T13:48:13	LSC.laser path change	right
+2025-06-17T13:48:14	ASI	m m=1	:A
+2025-06-17T13:48:14	ASI	M H=1960	:A
+2025-06-17T13:48:14	ASI	M I=1960	:A
+2025-06-17T13:48:14	ASI	M J=1960	:A
+2025-06-17T13:48:16	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:16	Imager.acquisition stop	
+2025-06-17T13:48:16	Imager.ETL control	FALSE
+2025-06-17T13:48:16	LSC.ETL start stop control	FALSE
+2025-06-17T13:48:52	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:52	Imager.change laser path	left
+2025-06-17T13:48:52	LSC.laser path change	left
+2025-06-17T13:48:53	ASI	m m=2	:A
+2025-06-17T13:48:53	ASI	M H=1960	:A
+2025-06-17T13:48:53	ASI	M I=1960	:A
+2025-06-17T13:48:53	ASI	M J=1960	:A
+2025-06-17T13:48:57	Imager.focus dynamic adjustment off	
+2025-06-17T13:48:57	Imager.acquisition stop	
+2025-06-17T13:48:57	Imager.ETL control	FALSE
+2025-06-17T13:48:57	LSC.ETL start stop control	FALSE
+2025-06-17T13:49:09	Sequencer.sequence start	not saved
+2025-06-17T13:49:09	Imager.focus dynamic adjustment off	
+2025-06-17T13:49:09	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T13:49:09	Imager.focus map update	
+2025-06-17T13:49:09	ASI	M X=-11896 Y=218857 Z=20000	:A
+2025-06-17T13:49:09	Imager.filter position go to	640F
+2025-06-17T13:49:09	LSC.filter position go	640F
+2025-06-17T13:49:09	ASI	MP 2	2MP 2  2  0
+2025-06-17T13:49:09	Imager.change laser path	left
+2025-06-17T13:49:09	LSC.laser path change	left
+2025-06-17T13:49:09	ASI	m m=2	:A
+2025-06-17T13:49:09	ASI	M H=1960	:A
+2025-06-17T13:49:09	ASI	M I=1960	:A
+2025-06-17T13:49:09	ASI	M J=1960	:A
+2025-06-17T13:49:09	Imager.change laser wavelength	640
+2025-06-17T13:49:09	LSC.laser active change	640
+2025-06-17T13:49:09	ASI	m e=33	:A
+2025-06-17T13:49:09	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:49:09	ASI	m e=34	:A
+2025-06-17T13:49:09	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:49:09	ASI	m e=35	:A
+2025-06-17T13:49:09	ASI	6 cca y=2 z=0	:A
+2025-06-17T13:49:09	LSC.ETL amplitude write	4650.000000
+2025-06-17T13:49:09	ASI	SAA V = 4650.00	:A
+2025-06-17T13:49:09	LSC.trigger delay write	16
+2025-06-17T13:49:09	ASI	m e=1	:A
+2025-06-17T13:49:10	ASI	6 cca y=9 z=64	:A
+2025-06-17T13:49:10	ASI	6 ccb x=40 y=192	:A
+2025-06-17T13:49:10	LSC.ETL offset write	4700.918000
+2025-06-17T13:49:10	ASI	SAO V=4700.918	:A
+2025-06-17T13:49:10	Imager.focus adjustment	
+2025-06-17T13:49:10	ASI	2ZS X=18	:A
+2025-06-17T13:49:10	Imager.scan prepare	
+2025-06-17T13:49:10	LSC.ETL period write	50
+2025-06-17T13:49:10	ASI	SAF v=50 w=50	:A
+2025-06-17T13:49:10	ASI	m e=3 	:A
+2025-06-17T13:49:10	ASI	6 cca y=9 z=195	:A
+2025-06-17T13:49:10	ASI	6 ccb x=2 y=192	:A
+2025-06-17T13:49:10	ASI	m e=4 	:A
+2025-06-17T13:49:10	ASI	6 cca y=8 z=201	:A
+2025-06-17T13:49:10	ASI	6 ccb x=3 y=192	:A
+2025-06-17T13:49:10	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T13:49:10	ASI	m e=2	:A
+2025-06-17T13:49:10	ASI	6 cca y=8 z=116	:A
+2025-06-17T13:49:10	ASI	6 ccb x=1 y=192	:A
+2025-06-17T13:49:10	ASI	m e=8	:A
+2025-06-17T13:49:10	ASI	6 cca y=9 z=96	:A
+2025-06-17T13:49:10	ASI	6 ccb x=7 y=192	:A
+2025-06-17T13:49:10	ASI	m e=6	:A
+2025-06-17T13:49:10	ASI	6 cca y=8 z=1668	:A
+2025-06-17T13:49:10	ASI	6 ccb x=4 y=5	:A
+2025-06-17T13:49:10	ASI	2 TTL x=2	:A
+2025-06-17T13:49:10	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":1667,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T13:49:11	Imager.ETL control	TRUE
+2025-06-17T13:49:11	LSC.ETL start stop control	TRUE
+2025-06-17T13:49:11	ASI	SAM V=1	:A
+2025-06-17T13:50:34	Imager.acquisition stop	
+2025-06-17T13:50:34	Imager.ETL control	FALSE
+2025-06-17T13:50:34	LSC.ETL start stop control	FALSE
+2025-06-17T13:50:34	ASI	SAM V=0 W=0	:A
+2025-06-17T13:50:34	Imager.acquisition stop	
+2025-06-17T13:50:34	Imager.ETL control	FALSE
+2025-06-17T13:50:34	LSC.ETL start stop control	FALSE
+2025-06-17T13:50:34	ASI	2 TTL x=0	:A
+2025-06-17T13:50:34	ASI	J Z=23 F=22	:A
+2025-06-17T14:04:37	Sequencer.sequence start	not saved
+2025-06-17T14:04:37	Imager.focus dynamic adjustment off	
+2025-06-17T14:04:37	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T14:04:37	Imager.focus map update	
+2025-06-17T14:04:37	ASI	M X=-11896 Y=218857 Z=43736	:A
+2025-06-17T14:04:37	Imager.filter position go to	640F
+2025-06-17T14:04:37	LSC.filter position go	640F
+2025-06-17T14:04:37	ASI	MP 2	2MP 2  2  0>
+2025-06-17T14:04:37	Imager.change laser path	left
+2025-06-17T14:04:37	LSC.laser path change	left
+2025-06-17T14:04:37	ASI	m m=2	:A
+2025-06-17T14:04:37	ASI	M H=1960	:A
+2025-06-17T14:04:37	ASI	M I=1960	:A
+2025-06-17T14:04:37	ASI	M J=1960	:A
+2025-06-17T14:04:37	Imager.change laser wavelength	640
+2025-06-17T14:04:37	LSC.laser active change	640
+2025-06-17T14:04:37	ASI	m e=33	:A
+2025-06-17T14:04:37	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:04:37	ASI	m e=34	:A
+2025-06-17T14:04:37	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:04:37	ASI	m e=35	:A
+2025-06-17T14:04:37	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:04:37	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:04:37	ASI	SAA V = 4650.00	:A
+2025-06-17T14:04:37	LSC.trigger delay write	16
+2025-06-17T14:04:37	ASI	m e=1	:A
+2025-06-17T14:04:37	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:04:37	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:04:37	LSC.ETL offset write	4700.918000
+2025-06-17T14:04:37	ASI	SAO V=4700.918	:A
+2025-06-17T14:04:37	Imager.focus adjustment	
+2025-06-17T14:04:37	ASI	2ZS X=18	:A
+2025-06-17T14:04:37	Imager.scan prepare	
+2025-06-17T14:04:37	LSC.ETL period write	50
+2025-06-17T14:04:38	ASI	SAF v=50 w=50	:A
+2025-06-17T14:04:38	ASI	m e=3 	:A
+2025-06-17T14:04:38	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:04:38	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:04:38	ASI	m e=4 	:A
+2025-06-17T14:04:38	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:04:38	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:04:38	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:04:38	ASI	m e=2	:A
+2025-06-17T14:04:38	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:04:38	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:04:38	ASI	m e=8	:A
+2025-06-17T14:04:38	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:04:38	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:04:38	ASI	m e=6	:A
+2025-06-17T14:04:38	ASI	6 cca y=8 z=349	:A
+2025-06-17T14:04:38	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:04:38	ASI	2 TTL x=2	:A
+2025-06-17T14:04:38	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":348,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:04:39	Imager.ETL control	TRUE
+2025-06-17T14:04:39	LSC.ETL start stop control	TRUE
+2025-06-17T14:04:39	ASI	SAM V=1	:A
+2025-06-17T14:04:56	Imager.acquisition stop	
+2025-06-17T14:04:56	Imager.ETL control	FALSE
+2025-06-17T14:04:56	LSC.ETL start stop control	FALSE
+2025-06-17T14:04:56	ASI	SAM V=0 W=0	:A
+2025-06-17T14:04:56	Imager.acquisition stop	
+2025-06-17T14:04:56	Imager.ETL control	FALSE
+2025-06-17T14:04:56	LSC.ETL start stop control	FALSE
+2025-06-17T14:04:56	ASI	2 TTL x=0	:A
+2025-06-17T14:04:56	ASI	J Z=23 F=22	:A
+2025-06-17T14:16:07	Sequencer.sequence start	not saved
+2025-06-17T14:16:07	Imager.focus dynamic adjustment off	
+2025-06-17T14:16:07	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T14:16:07	Imager.focus map update	
+2025-06-17T14:16:07	ASI	M X=-11896 Y=218857 Z=48352	:A
+2025-06-17T14:16:07	Imager.filter position go to	640F
+2025-06-17T14:16:07	LSC.filter position go	640F
+2025-06-17T14:16:07	ASI	MP 2	2MP 2  2  0>
+2025-06-17T14:16:07	Imager.change laser path	left
+2025-06-17T14:16:07	LSC.laser path change	left
+2025-06-17T14:16:07	ASI	m m=2	:A
+2025-06-17T14:16:07	ASI	M H=1960	:A
+2025-06-17T14:16:07	ASI	M I=1960	:A
+2025-06-17T14:16:07	ASI	M J=1960	:A
+2025-06-17T14:16:07	Imager.change laser wavelength	640
+2025-06-17T14:16:07	LSC.laser active change	640
+2025-06-17T14:16:08	ASI	m e=33	:A
+2025-06-17T14:16:08	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:16:08	ASI	m e=34	:A
+2025-06-17T14:16:08	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:16:08	ASI	m e=35	:A
+2025-06-17T14:16:08	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:16:08	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:16:08	ASI	SAA V = 4650.00	:A
+2025-06-17T14:16:08	LSC.trigger delay write	16
+2025-06-17T14:16:08	ASI	m e=1	:A
+2025-06-17T14:16:08	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:16:08	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:16:08	LSC.ETL offset write	4700.918000
+2025-06-17T14:16:08	ASI	SAO V=4700.918	:A
+2025-06-17T14:16:08	Imager.focus adjustment	
+2025-06-17T14:16:08	ASI	2ZS X=18	:A
+2025-06-17T14:16:08	Imager.scan prepare	
+2025-06-17T14:16:08	LSC.ETL period write	50
+2025-06-17T14:16:08	ASI	SAF v=50 w=50	:A
+2025-06-17T14:16:08	ASI	m e=3 	:A
+2025-06-17T14:16:08	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:16:08	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:16:08	ASI	m e=4 	:A
+2025-06-17T14:16:08	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:16:08	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:16:08	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:16:09	ASI	m e=2	:A
+2025-06-17T14:16:09	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:16:09	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:16:09	ASI	m e=8	:A
+2025-06-17T14:16:09	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:16:09	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:16:09	ASI	m e=6	:A
+2025-06-17T14:16:09	ASI	6 cca y=8 z=93	:A
+2025-06-17T14:16:09	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:16:09	ASI	2 TTL x=2	:A
+2025-06-17T14:16:09	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":92,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:16:09	Imager.ETL control	TRUE
+2025-06-17T14:16:09	LSC.ETL start stop control	TRUE
+2025-06-17T14:16:09	ASI	SAM V=1	:A
+2025-06-17T14:16:14	Imager.acquisition stop	
+2025-06-17T14:16:14	Imager.ETL control	FALSE
+2025-06-17T14:16:14	LSC.ETL start stop control	FALSE
+2025-06-17T14:16:14	ASI	SAM V=0 W=0	:A
+2025-06-17T14:16:14	Imager.acquisition stop	
+2025-06-17T14:16:14	Imager.ETL control	FALSE
+2025-06-17T14:16:14	LSC.ETL start stop control	FALSE
+2025-06-17T14:16:14	ASI	2 TTL x=0	:A
+2025-06-17T14:16:14	ASI	J Z=23 F=22	:A
+2025-06-17T14:43:51	Sequencer.sequence start	not saved
+2025-06-17T14:43:51	Imager.focus dynamic adjustment off	
+2025-06-17T14:43:51	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T14:43:51	Imager.focus map update	
+2025-06-17T14:43:51	ASI	M X=-11896 Y=218857 Z=48352	:A
+2025-06-17T14:43:51	Imager.filter position go to	640F
+2025-06-17T14:43:51	LSC.filter position go	640F
+2025-06-17T14:43:51	ASI	MP 2	2MP 2  2  0>
+2025-06-17T14:43:51	Imager.change laser path	left
+2025-06-17T14:43:51	LSC.laser path change	left
+2025-06-17T14:43:51	ASI	m m=2	:A
+2025-06-17T14:43:51	ASI	M H=1960	:A
+2025-06-17T14:43:51	ASI	M I=1960	:A
+2025-06-17T14:43:51	ASI	M J=1960	:A
+2025-06-17T14:43:51	Imager.change laser wavelength	640
+2025-06-17T14:43:51	LSC.laser active change	640
+2025-06-17T14:43:51	ASI	m e=33	:A
+2025-06-17T14:43:51	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:43:51	ASI	m e=34	:A
+2025-06-17T14:43:51	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:43:52	ASI	m e=35	:A
+2025-06-17T14:43:52	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:43:52	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:43:52	ASI	SAA V = 4650.00	:A
+2025-06-17T14:43:52	LSC.trigger delay write	16
+2025-06-17T14:43:52	ASI	m e=1	:A
+2025-06-17T14:43:52	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:43:52	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:43:52	LSC.ETL offset write	4700.918000
+2025-06-17T14:43:52	ASI	SAO V=4700.918	:A
+2025-06-17T14:43:52	Imager.focus adjustment	
+2025-06-17T14:43:52	ASI	2ZS X=18	:A
+2025-06-17T14:43:52	Imager.scan prepare	
+2025-06-17T14:43:52	LSC.ETL period write	50
+2025-06-17T14:43:52	ASI	SAF v=50 w=50	:A
+2025-06-17T14:43:52	ASI	m e=3 	:A
+2025-06-17T14:43:52	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:43:52	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:43:52	ASI	m e=4 	:A
+2025-06-17T14:43:52	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:43:52	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:43:52	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:43:52	ASI	m e=2	:A
+2025-06-17T14:43:52	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:43:52	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:43:52	ASI	m e=8	:A
+2025-06-17T14:43:52	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:43:52	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:43:53	ASI	m e=6	:A
+2025-06-17T14:43:53	ASI	6 cca y=8 z=386	:A
+2025-06-17T14:43:53	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:43:53	ASI	2 TTL x=2	:A
+2025-06-17T14:43:53	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":385,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:43:53	Imager.ETL control	TRUE
+2025-06-17T14:43:53	LSC.ETL start stop control	TRUE
+2025-06-17T14:43:53	ASI	SAM V=1	:A
+2025-06-17T14:44:12	Imager.acquisition stop	
+2025-06-17T14:44:13	Imager.ETL control	FALSE
+2025-06-17T14:44:13	LSC.ETL start stop control	FALSE
+2025-06-17T14:44:13	ASI	SAM V=0 W=0	:A
+2025-06-17T14:44:13	ASI	M X=-11896 Y=192937 Z=48352	:A
+2025-06-17T14:44:13	Imager.filter position go to	640F
+2025-06-17T14:44:13	LSC.filter position go	640F
+2025-06-17T14:44:13	ASI	MP 2	2MP 2  2
+2025-06-17T14:44:13	Imager.change laser path	left
+2025-06-17T14:44:13	LSC.laser path change	left
+2025-06-17T14:44:13	ASI	m m=2	0>:A
+2025-06-17T14:44:13	ASI	M H=1960	:A
+2025-06-17T14:44:13	ASI	M I=1960	:A
+2025-06-17T14:44:13	ASI	M J=1960	:A
+2025-06-17T14:44:13	Imager.change laser wavelength	640
+2025-06-17T14:44:13	LSC.laser active change	640
+2025-06-17T14:44:13	ASI	m e=33	:A
+2025-06-17T14:44:13	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:13	ASI	m e=34	:A
+2025-06-17T14:44:13	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:13	ASI	m e=35	:A
+2025-06-17T14:44:13	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:13	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:44:13	ASI	SAA V = 4650.00	:A
+2025-06-17T14:44:13	LSC.trigger delay write	16
+2025-06-17T14:44:13	ASI	m e=1	:A
+2025-06-17T14:44:13	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:44:13	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:44:13	LSC.ETL offset write	4700.918000
+2025-06-17T14:44:13	ASI	SAO V=4700.918	:A
+2025-06-17T14:44:14	Imager.focus adjustment	
+2025-06-17T14:44:15	ASI	2ZS X=18	:A
+2025-06-17T14:44:15	Imager.scan prepare	
+2025-06-17T14:44:15	LSC.ETL period write	50
+2025-06-17T14:44:15	ASI	SAF v=50 w=50	:A
+2025-06-17T14:44:15	ASI	m e=3 	:A
+2025-06-17T14:44:15	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:44:15	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:44:15	ASI	m e=4 	:A
+2025-06-17T14:44:15	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:44:15	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:44:15	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:44:15	ASI	m e=2	:A
+2025-06-17T14:44:15	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:44:15	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:44:15	ASI	m e=8	:A
+2025-06-17T14:44:15	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:44:15	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:44:15	ASI	m e=6	:A
+2025-06-17T14:44:15	ASI	6 cca y=8 z=386	:A
+2025-06-17T14:44:15	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:44:15	ASI	2 TTL x=2	:A
+2025-06-17T14:44:15	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":385,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:44:16	Imager.ETL control	TRUE
+2025-06-17T14:44:16	LSC.ETL start stop control	TRUE
+2025-06-17T14:44:16	ASI	SAM V=1	:A
+2025-06-17T14:44:37	Imager.acquisition stop	
+2025-06-17T14:44:37	Imager.ETL control	FALSE
+2025-06-17T14:44:37	LSC.ETL start stop control	FALSE
+2025-06-17T14:44:37	ASI	SAM V=0 W=0	:A
+2025-06-17T14:44:37	ASI	M X=-11896 Y=167017 Z=48352	:A
+2025-06-17T14:44:37	Imager.filter position go to	640F
+2025-06-17T14:44:37	LSC.filter position go	640F
+2025-06-17T14:44:37	ASI	MP 2	2MP 2  2  0>
+2025-06-17T14:44:37	Imager.change laser path	left
+2025-06-17T14:44:37	LSC.laser path change	left
+2025-06-17T14:44:37	ASI	m m=2	:A
+2025-06-17T14:44:37	ASI	M H=1960	:A
+2025-06-17T14:44:37	ASI	M I=1960	:A
+2025-06-17T14:44:37	ASI	M J=1960	:A
+2025-06-17T14:44:37	Imager.change laser wavelength	640
+2025-06-17T14:44:37	LSC.laser active change	640
+2025-06-17T14:44:37	ASI	m e=33	:A
+2025-06-17T14:44:37	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:38	ASI	m e=34	:A
+2025-06-17T14:44:38	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:38	ASI	m e=35	:A
+2025-06-17T14:44:38	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:44:38	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:44:38	ASI	SAA V = 4650.00	:A
+2025-06-17T14:44:38	LSC.trigger delay write	16
+2025-06-17T14:44:38	ASI	m e=1	:A
+2025-06-17T14:44:38	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:44:38	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:44:38	LSC.ETL offset write	4700.918000
+2025-06-17T14:44:38	ASI	SAO V=4700.918	:A
+2025-06-17T14:44:39	Imager.focus adjustment	
+2025-06-17T14:44:39	ASI	2ZS X=18	:A
+2025-06-17T14:44:39	Imager.scan prepare	
+2025-06-17T14:44:39	LSC.ETL period write	50
+2025-06-17T14:44:39	ASI	SAF v=50 w=50	:A
+2025-06-17T14:44:39	ASI	m e=3 	:A
+2025-06-17T14:44:39	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:44:39	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:44:39	ASI	m e=4 	:A
+2025-06-17T14:44:39	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:44:40	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:44:40	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:44:40	ASI	m e=2	:A
+2025-06-17T14:44:40	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:44:40	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:44:40	ASI	m e=8	:A
+2025-06-17T14:44:40	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:44:40	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:44:40	ASI	m e=6	:A
+2025-06-17T14:44:40	ASI	6 cca y=8 z=386	:A
+2025-06-17T14:44:40	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:44:40	ASI	2 TTL x=2	:A
+2025-06-17T14:44:40	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":385,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:44:40	Imager.ETL control	TRUE
+2025-06-17T14:44:40	LSC.ETL start stop control	TRUE
+2025-06-17T14:44:40	ASI	SAM V=1	:A
+2025-06-17T14:45:00	Imager.acquisition stop	
+2025-06-17T14:45:00	Imager.ETL control	FALSE
+2025-06-17T14:45:00	LSC.ETL start stop control	FALSE
+2025-06-17T14:45:00	ASI	SAM V=0 W=0	:A
+2025-06-17T14:45:00	ASI	M X=-11896 Y=141097 Z=48352	:A
+2025-06-17T14:45:00	Imager.filter position go to	640F
+2025-06-17T14:45:00	LSC.filter position go	640F
+2025-06-17T14:45:00	ASI	MP 2	2MP 2  2  0>
+2025-06-17T14:45:00	Imager.change laser path	left
+2025-06-17T14:45:00	LSC.laser path change	left
+2025-06-17T14:45:00	ASI	m m=2	:A
+2025-06-17T14:45:00	ASI	M H=1960	:A
+2025-06-17T14:45:00	ASI	M I=1960	:A
+2025-06-17T14:45:00	ASI	M J=1960	:A
+2025-06-17T14:45:00	Imager.change laser wavelength	640
+2025-06-17T14:45:00	LSC.laser active change	640
+2025-06-17T14:45:00	ASI	m e=33	:A
+2025-06-17T14:45:00	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:45:00	ASI	m e=34	:A
+2025-06-17T14:45:00	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:45:01	ASI	m e=35	:A
+2025-06-17T14:45:01	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:45:01	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:45:01	ASI	SAA V = 4650.00	:A
+2025-06-17T14:45:01	LSC.trigger delay write	16
+2025-06-17T14:45:01	ASI	m e=1	:A
+2025-06-17T14:45:01	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:45:01	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:45:01	LSC.ETL offset write	4700.918000
+2025-06-17T14:45:01	ASI	SAO V=4700.918	:A
+2025-06-17T14:45:02	Imager.focus adjustment	
+2025-06-17T14:45:02	ASI	2ZS X=18	:A
+2025-06-17T14:45:02	Imager.scan prepare	
+2025-06-17T14:45:02	LSC.ETL period write	50
+2025-06-17T14:45:02	ASI	SAF v=50 w=50	:A
+2025-06-17T14:45:02	ASI	m e=3 	:A
+2025-06-17T14:45:02	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:45:02	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:45:02	ASI	m e=4 	:A
+2025-06-17T14:45:02	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:45:02	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:45:02	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:45:02	ASI	m e=2	:A
+2025-06-17T14:45:02	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:45:02	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:45:03	ASI	m e=8	:A
+2025-06-17T14:45:03	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:45:03	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:45:03	ASI	m e=6	:A
+2025-06-17T14:45:03	ASI	6 cca y=8 z=386	:A
+2025-06-17T14:45:03	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:45:03	ASI	2 TTL x=2	:A
+2025-06-17T14:45:03	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":385,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:45:03	Imager.ETL control	TRUE
+2025-06-17T14:45:03	LSC.ETL start stop control	TRUE
+2025-06-17T14:45:03	ASI	SAM V=1	:A
+2025-06-17T14:45:24	Imager.acquisition stop	
+2025-06-17T14:45:24	Imager.ETL control	FALSE
+2025-06-17T14:45:24	LSC.ETL start stop control	FALSE
+2025-06-17T14:45:24	ASI	SAM V=0 W=0	:A
+2025-06-17T14:45:24	Imager.acquisition stop	
+2025-06-17T14:45:24	Imager.ETL control	FALSE
+2025-06-17T14:45:24	LSC.ETL start stop control	FALSE
+2025-06-17T14:45:24	ASI	2 TTL x=0	:A
+2025-06-17T14:45:24	ASI	J Z=23 F=22	:A
+2025-06-17T14:46:37	Test_Panels	stopped
+2025-06-17T14:46:38	UI-Main	stopped
+2025-06-17T14:46:38	SPIM_App	stopped
+2025-06-17T14:46:38	Sequencer	stopped
+2025-06-17T14:46:40	SPIM_Control	stopped
+2025-06-17T14:46:40	Joystick	stopped
+2025-06-17T14:46:40	Imager	stopped
+2025-06-17T14:46:40	Optical_Configuration	stopped
+2025-06-17T14:46:40	OS.close	
+2025-06-17T14:46:40	OSMightyZAP	stopped
+2025-06-17T14:46:41	LSC	stopped
+2025-06-17T14:46:41	Focus	stopped
+2025-06-17T14:46:42	Stage	stopped
+2025-06-17T14:46:42	LaserVortran	stopped
+2025-06-17T14:46:42	Trigger	stopped
+2025-06-17T14:46:42	ETL	stopped
+2025-06-17T14:46:42	Filter_Wheel	stopped
+2025-06-17T14:46:42	LSHA_Actuator	stopped
+2025-06-17T14:47:19	ASI	starting
+2025-06-17T14:47:20	ASI	9 ttl y=22 	:A
+2025-06-17T14:47:20	ASI	SAP v=32 w=32 	:A
+2025-06-17T14:47:20	ASI	SAA v=2000 w=2000 	:A
+2025-06-17T14:47:20	ASI	SAF v=50 w=50 	:A
+2025-06-17T14:47:20	ASI	SAO v=0 w=0	:A
+2025-06-17T14:47:20	ASI	6 PM E=0	:A
+2025-06-17T14:47:20	ASI	m e=40 	:A
+2025-06-17T14:47:20	ASI	6 cca y=0	:A
+2025-06-17T14:47:20	ASI	m e=33 	:A
+2025-06-17T14:47:20	ASI	6 cca y=2 z=4	:A
+2025-06-17T14:47:20	ASI	m e=34 	:A
+2025-06-17T14:47:20	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:20	ASI	m e=35 	:A
+2025-06-17T14:47:20	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:21	ASI	m e=36 	:A
+2025-06-17T14:47:21	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:21	ASI	m e=37 	:A
+2025-06-17T14:47:21	ASI	6 cca y=2 z=2	:A
+2025-06-17T14:47:21	ASI	m e=38 	:A
+2025-06-17T14:47:21	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:21	ASI	m e=39 	:A
+2025-06-17T14:47:21	ASI	6 cca y=2 z=8	:A
+2025-06-17T14:47:21	ASI	m e=1	:A
+2025-06-17T14:47:21	ASI	6 cca y=9 z=25	:A
+2025-06-17T14:47:21	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:47:21	ASI	m e=2	:A
+2025-06-17T14:47:21	ASI	6 cca y=8 z=112	:A
+2025-06-17T14:47:21	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:47:21	ASI	m e=3	:A
+2025-06-17T14:47:21	ASI	6 cca y=9 z=45	:A
+2025-06-17T14:47:21	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:47:21	ASI	m e=4	:A
+2025-06-17T14:47:21	ASI	6 cca y=8 z=55	:A
+2025-06-17T14:47:22	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:47:22	ASI	m e=5	:A
+2025-06-17T14:47:22	ASI	6 cca y=5 	:A
+2025-06-17T14:47:22	ASI	6 ccb x=2 y=4	:A
+2025-06-17T14:47:22	ASI	m e=6	:A
+2025-06-17T14:47:22	ASI	6 cca y=8 z=301	:A
+2025-06-17T14:47:22	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:47:22	ASI	m e=7	:A
+2025-06-17T14:47:22	ASI	6 cca y=5 	:A
+2025-06-17T14:47:22	ASI	6 ccb x=5 y=6	:A
+2025-06-17T14:47:22	ASI	m e=8	:A
+2025-06-17T14:47:22	ASI	6 cca y=9 z=112	:A
+2025-06-17T14:47:22	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:47:22	ASI	m e=9	:A
+2025-06-17T14:47:22	ASI	6 cca y=5 	:A
+2025-06-17T14:47:22	ASI	6 ccb x=4 y=6	:A
+2025-06-17T14:47:22	ASI	j z=23 f=22 m=0 n=0 v=0 w=0	:A
+2025-06-17T14:47:22	ASI	s x=1.7 y=1.7 z=1.7 f=1.7 	:A
+2025-06-17T14:47:22	ASI	1 js x=80 y=80	:A
+2025-06-17T14:47:22	ASI	2 js f=10 t=10	:A
+2025-06-17T14:47:22	ASI	b v=0 w=0	:A
+2025-06-17T14:47:22	ASI	j v=0 w=0	:A
+2025-06-17T14:47:22	ASI	j z=23 f=22	:A
+2025-06-17T14:47:22	ASI	9 js f=0.3 t=0.3	:A
+2025-06-17T14:47:22	ASI	s m=20	:A
+2025-06-17T14:47:22	ASI	2 TTL x=2 y=2	:A
+2025-06-17T14:47:22	ASI	2 TTL x=0	:A
+2025-06-17T14:47:22	ASI	pc z=0.0002	:A
+2025-06-17T14:47:22	ASI	e z=0.0004	:A
+2025-06-17T14:47:22	ASI	ac z=25	:A
+2025-06-17T14:47:23	ASI	kv z=85	:A
+2025-06-17T14:47:23	ASI	ka z=0	:A
+2025-06-17T14:47:23	ASI	kp z=200	:A
+2025-06-17T14:47:23	ASI	5 PM g=1	:N-7
+2025-06-17T14:47:23	ASI	m g=40 	:N-2
+2025-06-17T14:47:23	ASI	5 cca y=0	:N-7
+2025-06-17T14:47:23	ASI	5 m g=33 	:N-7
+2025-06-17T14:47:23	ASI	5 cca y=2 z=40	:N-7
+2025-06-17T14:47:23	ASI	5 m g=34 	:N-7
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	ASI	5 m g=35 	:N-7
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	ASI	m g=36 	:N-2
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	ASI	m g=37 	:N-2
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	ASI	m g=38 	:N-2
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	ASI	m g=39 	:N-2
+2025-06-17T14:47:23	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:47:23	LSHA_Actuator	starting
+2025-06-17T14:47:23	Filter_Wheel	starting
+2025-06-17T14:47:23	ASI	HO	HO    0>
+2025-06-17T14:47:23	ETL	starting
+2025-06-17T14:47:23	Trigger	starting
+2025-06-17T14:47:23	LaserVortran	starting
+2025-06-17T14:47:23	ASI	M H=1200	:A
+2025-06-17T14:47:23	ASI	M I=1200	:A
+2025-06-17T14:47:23	ASI	M J=1200	:A
+2025-06-17T14:47:23	Stage	starting
+2025-06-17T14:47:24	Focus	starting
+2025-06-17T14:47:24	LSC	starting
+2025-06-17T14:47:24	OSMightyZAP	starting
+2025-06-17T14:47:24	OS.open	
+2025-06-17T14:47:24	Optical_Configuration	starting
+2025-06-17T14:47:24	Imager	starting
+2025-06-17T14:47:26	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:47:26	OS : UL.move	FALSE
+2025-06-17T14:47:26	OS : LL.move	TRUE
+2025-06-17T14:47:26	OS : UR.move	FALSE
+2025-06-17T14:47:26	OS : LR.move	TRUE
+2025-06-17T14:47:26	Imager.change laser path	right
+2025-06-17T14:47:26	LSC.laser path change	right
+2025-06-17T14:47:26	ASI	m m=1	:A
+2025-06-17T14:47:26	ASI	M H=1960	:A
+2025-06-17T14:47:26	ASI	M I=1960	:A
+2025-06-17T14:47:26	ASI	M J=1960	:A
+2025-06-17T14:47:26	Imager.filter position go to	561F
+2025-06-17T14:47:26	LSC.filter position go	561F
+2025-06-17T14:47:26	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:47:26	Imager.change imaging speed	FAST
+2025-06-17T14:47:26	LSC.ETL period write	50
+2025-06-17T14:47:26	ASI	SAF v=50 w=50	:A
+2025-06-17T14:47:26	ASI	m e=3 	:A
+2025-06-17T14:47:26	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:47:26	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:47:26	ASI	m e=4 	:A
+2025-06-17T14:47:27	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:47:27	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:47:27	Imager.change laser to default	
+2025-06-17T14:47:27	LSC.laser active change to default	
+2025-06-17T14:47:27	ASI	m e=33	:A
+2025-06-17T14:47:27	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:27	ASI	m e=34	:A
+2025-06-17T14:47:27	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:27	ASI	m e=35	:A
+2025-06-17T14:47:27	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:47:27	Imager.sampling multiplier change	1.000000
+2025-06-17T14:47:27	Joystick	starting
+2025-06-17T14:47:27	ASI	J N=0 V=0 W=0 X=0 Y=0	:A
+2025-06-17T14:47:27	ASI	J Z=23 F=22	:A
+2025-06-17T14:47:27	SPIM_Control	starting
+2025-06-17T14:47:27	Sequencer	starting
+2025-06-17T14:47:27	SPIM_App	starting
+2025-06-17T14:47:28	UI-Main	starting
+2025-06-17T14:47:28	Imager.LSHA position	
+2025-06-17T14:47:28	ASI	W N	:A 1
+2025-06-17T14:47:28	LSC.LSHA position	0.100000
+2025-06-17T14:47:28	Sequencer.select step	sample_1	9C927F80-DEA5-4B7F-B123-8C903BA38051
+2025-06-17T14:47:28	Imager.focus map update	
+2025-06-17T14:47:28	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:47:28	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:47:28	ASI	M H=1960	:A
+2025-06-17T14:47:28	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:47:28	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:47:28	ASI	M I=1960	:A
+2025-06-17T14:47:28	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:47:28	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:47:28	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:47:28	ASI	M J=1960	:A
+2025-06-17T14:47:28	Imager.LSHA move	0.100000
+2025-06-17T14:47:28	LSC.LSHA actuator move	0.100000
+2025-06-17T14:47:28	ASI	M N=1	:A
+2025-06-17T14:47:28	Test_Panels	starting
+2025-06-17T14:47:28	startup	finished
+2025-06-17T14:47:37	Imager.focus dynamic adjustment off	
+2025-06-17T14:47:39	UI-Main	illum focus wizard step 1
+2025-06-17T14:47:39	Imager.acquisition stop	
+2025-06-17T14:47:39	Imager.ETL control	FALSE
+2025-06-17T14:47:39	LSC.ETL start stop control	FALSE
+2025-06-17T14:47:39	Imager.filter change to match laser	
+2025-06-17T14:47:39	LSC.filter change to match laser	
+2025-06-17T14:47:39	ASI	MP 1	1MP 1  1  0
+2025-06-17T14:47:39	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:47:39	OS : UL.move	FALSE
+2025-06-17T14:47:39	OS : LL.move	TRUE
+2025-06-17T14:47:39	OS : UR.move	FALSE
+2025-06-17T14:47:39	OS : LR.move	TRUE
+2025-06-17T14:47:39	Imager.focus dynamic adjustment off	
+2025-06-17T14:47:39	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:47:39	ASI	J Z=0 V=0 W=0 N=0	:A
+2025-06-17T14:47:41	UI-Main	illum focus wizard step 2
+2025-06-17T14:47:41	Imager.acquisition stop	
+2025-06-17T14:47:41	Imager.ETL control	FALSE
+2025-06-17T14:47:41	LSC.ETL start stop control	FALSE
+2025-06-17T14:47:41	Imager.filter change to match laser	
+2025-06-17T14:47:41	LSC.filter change to match laser	
+2025-06-17T14:47:41	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:47:41	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:47:41	ASI	J Z=0 V=0 W=0 N=0	:A
+2025-06-17T14:47:41	Imager.laser lens remove	
+2025-06-17T14:47:41	OS : UL.move	FALSE
+2025-06-17T14:47:41	OS : LL.move	FALSE
+2025-06-17T14:47:41	OS : UR.move	FALSE
+2025-06-17T14:47:41	OS : LR.move	FALSE
+2025-06-17T14:47:44	Imager.focus dynamic adjustment off	
+2025-06-17T14:47:44	Imager.acquisition stop	
+2025-06-17T14:47:44	Imager.ETL control	FALSE
+2025-06-17T14:47:44	LSC.ETL start stop control	FALSE
+2025-06-17T14:47:44	ASI	J Z=23 F=22	:A
+2025-06-17T14:47:44	ASI	J N=0 V=0 W=0	:A
+2025-06-17T14:47:44	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:47:44	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:47:44	OS : UL.move	FALSE
+2025-06-17T14:47:44	OS : LL.move	TRUE
+2025-06-17T14:47:44	OS : UR.move	FALSE
+2025-06-17T14:47:44	OS : LR.move	TRUE
+2025-06-17T14:47:44	Imager.focus dynamic adjustment off	
+2025-06-17T14:47:44	Imager.filter change to match laser	
+2025-06-17T14:47:44	LSC.filter change to match laser	
+2025-06-17T14:47:44	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:47:44	Imager.change laser path	right
+2025-06-17T14:47:44	LSC.laser path change	right
+2025-06-17T14:47:45	ASI	m m=1	:A
+2025-06-17T14:47:45	ASI	M H=1960	:A
+2025-06-17T14:47:45	ASI	M I=1960	:A
+2025-06-17T14:47:45	ASI	M J=1960	:A
+2025-06-17T14:48:40	Test_Panels	stopped
+2025-06-17T14:48:42	UI-Main	stopped
+2025-06-17T14:48:42	SPIM_App	stopped
+2025-06-17T14:48:42	Sequencer	stopped
+2025-06-17T14:48:43	SPIM_Control	stopped
+2025-06-17T14:48:43	Joystick	stopped
+2025-06-17T14:48:43	Imager	stopped
+2025-06-17T14:48:43	Optical_Configuration	stopped
+2025-06-17T14:48:44	OS.close	
+2025-06-17T14:48:44	OSMightyZAP	stopped
+2025-06-17T14:48:44	LSC	stopped
+2025-06-17T14:48:44	Focus	stopped
+2025-06-17T14:48:46	Stage	stopped
+2025-06-17T14:48:46	LaserVortran	stopped
+2025-06-17T14:48:46	Trigger	stopped
+2025-06-17T14:48:46	ETL	stopped
+2025-06-17T14:48:46	Filter_Wheel	stopped
+2025-06-17T14:48:46	LSHA_Actuator	stopped
+2025-06-17T14:48:52	ASI	starting
+2025-06-17T14:48:53	ASI	9 ttl y=22 	:A
+2025-06-17T14:48:53	ASI	SAP v=32 w=32 	:A
+2025-06-17T14:48:53	ASI	SAA v=2000 w=2000 	:A
+2025-06-17T14:48:53	ASI	SAF v=50 w=50 	:A
+2025-06-17T14:48:53	ASI	SAO v=0 w=0	:A
+2025-06-17T14:48:53	ASI	6 PM E=0	:A
+2025-06-17T14:48:53	ASI	m e=40 	:A
+2025-06-17T14:48:53	ASI	6 cca y=0	:A
+2025-06-17T14:48:53	ASI	m e=33 	:A
+2025-06-17T14:48:53	ASI	6 cca y=2 z=4	:A
+2025-06-17T14:48:53	ASI	m e=34 	:A
+2025-06-17T14:48:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:48:53	ASI	m e=35 	:A
+2025-06-17T14:48:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:48:53	ASI	m e=36 	:A
+2025-06-17T14:48:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:48:53	ASI	m e=37 	:A
+2025-06-17T14:48:54	ASI	6 cca y=2 z=2	:A
+2025-06-17T14:48:54	ASI	m e=38 	:A
+2025-06-17T14:48:54	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:48:54	ASI	m e=39 	:A
+2025-06-17T14:48:54	ASI	6 cca y=2 z=8	:A
+2025-06-17T14:48:54	ASI	m e=1	:A
+2025-06-17T14:48:54	ASI	6 cca y=9 z=25	:A
+2025-06-17T14:48:54	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:48:54	ASI	m e=2	:A
+2025-06-17T14:48:54	ASI	6 cca y=8 z=112	:A
+2025-06-17T14:48:54	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:48:54	ASI	m e=3	:A
+2025-06-17T14:48:54	ASI	6 cca y=9 z=45	:A
+2025-06-17T14:48:54	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:48:54	ASI	m e=4	:A
+2025-06-17T14:48:54	ASI	6 cca y=8 z=55	:A
+2025-06-17T14:48:54	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:48:54	ASI	m e=5	:A
+2025-06-17T14:48:54	ASI	6 cca y=5 	:A
+2025-06-17T14:48:55	ASI	6 ccb x=2 y=4	:A
+2025-06-17T14:48:55	ASI	m e=6	:A
+2025-06-17T14:48:55	ASI	6 cca y=8 z=301	:A
+2025-06-17T14:48:55	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:48:55	ASI	m e=7	:A
+2025-06-17T14:48:55	ASI	6 cca y=5 	:A
+2025-06-17T14:48:55	ASI	6 ccb x=5 y=6	:A
+2025-06-17T14:48:55	ASI	m e=8	:A
+2025-06-17T14:48:55	ASI	6 cca y=9 z=112	:A
+2025-06-17T14:48:55	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:48:55	ASI	m e=9	:A
+2025-06-17T14:48:55	ASI	6 cca y=5 	:A
+2025-06-17T14:48:55	ASI	6 ccb x=4 y=6	:A
+2025-06-17T14:48:55	ASI	j z=23 f=22 m=0 n=0 v=0 w=0	:A
+2025-06-17T14:48:55	ASI	s x=1.7 y=1.7 z=1.7 f=1.7 	:A
+2025-06-17T14:48:55	ASI	1 js x=80 y=80	:A
+2025-06-17T14:48:55	ASI	2 js f=10 t=10	:A
+2025-06-17T14:48:55	ASI	b v=0 w=0	:A
+2025-06-17T14:48:55	ASI	j v=0 w=0	:A
+2025-06-17T14:48:55	ASI	j z=23 f=22	:A
+2025-06-17T14:48:55	ASI	9 js f=0.3 t=0.3	:A
+2025-06-17T14:48:55	ASI	s m=20	:A
+2025-06-17T14:48:55	ASI	2 TTL x=2 y=2	:A
+2025-06-17T14:48:55	ASI	2 TTL x=0	:A
+2025-06-17T14:48:55	ASI	pc z=0.0002	:A
+2025-06-17T14:48:55	ASI	e z=0.0004	:A
+2025-06-17T14:48:55	ASI	ac z=25	:A
+2025-06-17T14:48:55	ASI	kv z=85	:A
+2025-06-17T14:48:55	ASI	ka z=0	:A
+2025-06-17T14:48:55	ASI	kp z=200	:A
+2025-06-17T14:48:55	ASI	5 PM g=1	:N-7
+2025-06-17T14:48:55	ASI	m g=40 	:N-2
+2025-06-17T14:48:55	ASI	5 cca y=0	:N-7
+2025-06-17T14:48:55	ASI	5 m g=33 	:N-7
+2025-06-17T14:48:55	ASI	5 cca y=2 z=40	:N-7
+2025-06-17T14:48:55	ASI	5 m g=34 	:N-7
+2025-06-17T14:48:55	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:55	ASI	5 m g=35 	:N-7
+2025-06-17T14:48:55	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:55	ASI	m g=36 	:N-2
+2025-06-17T14:48:55	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:56	ASI	m g=37 	:N-2
+2025-06-17T14:48:56	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:56	ASI	m g=38 	:N-2
+2025-06-17T14:48:56	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:56	ASI	m g=39 	:N-2
+2025-06-17T14:48:56	ASI	5 cca y=2 z=0	:N-7
+2025-06-17T14:48:56	LSHA_Actuator	starting
+2025-06-17T14:48:56	Filter_Wheel	starting
+2025-06-17T14:48:56	ASI	HO	HO    0>
+2025-06-17T14:48:56	ETL	starting
+2025-06-17T14:48:56	Trigger	starting
+2025-06-17T14:48:56	LaserVortran	starting
+2025-06-17T14:48:56	ASI	M H=1200	:A
+2025-06-17T14:48:56	ASI	M I=1200	:A
+2025-06-17T14:48:56	ASI	M J=1200	:A
+2025-06-17T14:48:56	Stage	starting
+2025-06-17T14:48:56	Focus	starting
+2025-06-17T14:48:57	LSC	starting
+2025-06-17T14:48:57	OSMightyZAP	starting
+2025-06-17T14:48:57	OS.open	
+2025-06-17T14:48:57	Optical_Configuration	starting
+2025-06-17T14:48:57	Imager	starting
+2025-06-17T14:48:59	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:48:59	OS : UL.move	FALSE
+2025-06-17T14:48:59	OS : LL.move	TRUE
+2025-06-17T14:48:59	OS : UR.move	FALSE
+2025-06-17T14:48:59	OS : LR.move	TRUE
+2025-06-17T14:48:59	Imager.change laser path	right
+2025-06-17T14:48:59	LSC.laser path change	right
+2025-06-17T14:48:59	ASI	m m=1	:A
+2025-06-17T14:48:59	ASI	M H=1960	:A
+2025-06-17T14:48:59	ASI	M I=1960	:A
+2025-06-17T14:48:59	ASI	M J=1960	:A
+2025-06-17T14:48:59	Imager.filter position go to	561F
+2025-06-17T14:48:59	LSC.filter position go	561F
+2025-06-17T14:48:59	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:48:59	Imager.change imaging speed	FAST
+2025-06-17T14:48:59	LSC.ETL period write	50
+2025-06-17T14:48:59	ASI	SAF v=50 w=50	:A
+2025-06-17T14:48:59	ASI	m e=3 	:A
+2025-06-17T14:48:59	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:48:59	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:48:59	ASI	m e=4 	:A
+2025-06-17T14:48:59	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:48:59	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:48:59	Imager.change laser to default	
+2025-06-17T14:48:59	LSC.laser active change to default	
+2025-06-17T14:49:00	ASI	m e=33	:A
+2025-06-17T14:49:00	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:00	ASI	m e=34	:A
+2025-06-17T14:49:00	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:00	ASI	m e=35	:A
+2025-06-17T14:49:00	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:00	Imager.sampling multiplier change	1.000000
+2025-06-17T14:49:00	Joystick	starting
+2025-06-17T14:49:00	ASI	J N=0 V=0 W=0 X=0 Y=0	:A
+2025-06-17T14:49:00	ASI	J Z=23 F=22	:A
+2025-06-17T14:49:00	SPIM_Control	starting
+2025-06-17T14:49:00	Sequencer	starting
+2025-06-17T14:49:00	SPIM_App	starting
+2025-06-17T14:49:00	UI-Main	starting
+2025-06-17T14:49:00	Imager.LSHA position	
+2025-06-17T14:49:00	ASI	W N	:A 1
+2025-06-17T14:49:00	LSC.LSHA position	0.100000
+2025-06-17T14:49:00	Sequencer.select step	sample_1	C0B536B2-A7DD-4B65-BAA3-6B2F0778C90C
+2025-06-17T14:49:00	Imager.focus map update	
+2025-06-17T14:49:00	Imager.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:49:00	LSC.laser power change	path=left power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:49:00	Imager.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:49:00	LSC.laser power change	path=right power=20.000000 wavelength=488 link=FALSE
+2025-06-17T14:49:01	ASI	M H=1960	:A
+2025-06-17T14:49:01	Imager.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:49:01	LSC.laser power change	path=left power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:49:01	Imager.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:49:01	LSC.laser power change	path=right power=20.000000 wavelength=561 link=FALSE
+2025-06-17T14:49:01	ASI	M I=1960	:A
+2025-06-17T14:49:01	Imager.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:49:01	LSC.laser power change	path=left power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:49:01	Imager.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:49:01	LSC.laser power change	path=right power=20.000000 wavelength=640 link=FALSE
+2025-06-17T14:49:01	ASI	M J=1960	:A
+2025-06-17T14:49:01	Imager.LSHA move	0.100000
+2025-06-17T14:49:01	LSC.LSHA actuator move	0.100000
+2025-06-17T14:49:01	ASI	M N=1	:A
+2025-06-17T14:49:01	Test_Panels	starting
+2025-06-17T14:49:01	startup	finished
+2025-06-17T14:49:27	Imager.focus dynamic adjustment off	
+2025-06-17T14:49:29	UI-Main	illum focus wizard step 1
+2025-06-17T14:49:29	Imager.acquisition stop	
+2025-06-17T14:49:29	Imager.ETL control	FALSE
+2025-06-17T14:49:29	LSC.ETL start stop control	FALSE
+2025-06-17T14:49:29	Imager.filter change to match laser	
+2025-06-17T14:49:29	LSC.filter change to match laser	
+2025-06-17T14:49:29	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:49:29	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:49:29	OS : UL.move	FALSE
+2025-06-17T14:49:29	OS : LL.move	TRUE
+2025-06-17T14:49:29	OS : UR.move	FALSE
+2025-06-17T14:49:29	OS : LR.move	TRUE
+2025-06-17T14:49:29	Imager.focus dynamic adjustment off	
+2025-06-17T14:49:29	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:49:29	ASI	J Z=0 V=0 W=0 N=0	:A
+2025-06-17T14:49:30	UI-Main	illum focus wizard step 2
+2025-06-17T14:49:30	Imager.acquisition stop	
+2025-06-17T14:49:30	Imager.ETL control	FALSE
+2025-06-17T14:49:30	LSC.ETL start stop control	FALSE
+2025-06-17T14:49:30	Imager.filter change to match laser	
+2025-06-17T14:49:30	LSC.filter change to match laser	
+2025-06-17T14:49:30	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:49:30	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:49:30	ASI	J Z=0 V=0 W=0 N=0	:A
+2025-06-17T14:49:30	Imager.laser lens remove	
+2025-06-17T14:49:30	OS : UL.move	FALSE
+2025-06-17T14:49:30	OS : LL.move	FALSE
+2025-06-17T14:49:30	OS : UR.move	FALSE
+2025-06-17T14:49:30	OS : LR.move	FALSE
+2025-06-17T14:49:31	UI-Main	illum focus wizard step 3
+2025-06-17T14:49:31	Imager.change laser path	right
+2025-06-17T14:49:31	LSC.laser path change	right
+2025-06-17T14:49:31	ASI	m m=1	:A
+2025-06-17T14:49:31	ASI	M H=1960	:A
+2025-06-17T14:49:31	ASI	M I=1960	:A
+2025-06-17T14:49:31	ASI	M J=1960	:A
+2025-06-17T14:49:31	Imager.change laser to default	
+2025-06-17T14:49:31	LSC.laser active change to default	
+2025-06-17T14:49:32	ASI	m e=33	:A
+2025-06-17T14:49:32	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:32	ASI	m e=34	:A
+2025-06-17T14:49:32	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:32	ASI	m e=35	:A
+2025-06-17T14:49:32	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:49:32	Imager.focus dynamic adjustment off	
+2025-06-17T14:49:32	Imager.acquisition stop	
+2025-06-17T14:49:32	Imager.ETL control	FALSE
+2025-06-17T14:49:32	LSC.ETL start stop control	FALSE
+2025-06-17T14:49:32	Imager.filter open position go	
+2025-06-17T14:49:32	LSC.filter open position go to	
+2025-06-17T14:49:32	ASI	MP 3	3MP 3  3  0>
+2025-06-17T14:49:32	ASI	J F=22 W=23	:A
+2025-06-17T14:49:32	ASI	J Z=0 N=0 V=0	:A
+2025-06-17T14:49:32	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:49:32	LSC.ETL amplitude write	2650.000000
+2025-06-17T14:49:32	ASI	SAA W = 2650.00	:A
+2025-06-17T14:49:32	LSC.trigger delay write	16
+2025-06-17T14:49:32	ASI	m e=1	:A
+2025-06-17T14:49:32	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:49:32	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:49:32	LSC.ETL offset write	4314.063000
+2025-06-17T14:49:32	ASI	SAO W=4314.063	:A
+2025-06-17T14:49:32	Imager.scan prepare	
+2025-06-17T14:49:32	LSC.ETL period write	50
+2025-06-17T14:49:32	ASI	SAF v=50 w=50	:A
+2025-06-17T14:49:32	ASI	m e=3 	:A
+2025-06-17T14:49:32	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:49:32	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:49:32	ASI	m e=4 	:A
+2025-06-17T14:49:32	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:49:32	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:49:32	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:49:33	ASI	m e=2	:A
+2025-06-17T14:49:33	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:49:33	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:49:33	ASI	m e=8	:A
+2025-06-17T14:49:33	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:49:33	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:49:33	ASI	2 TTL x=0	:A
+2025-06-17T14:49:33	Imager.ETL control	TRUE
+2025-06-17T14:49:33	LSC.ETL start stop control	TRUE
+2025-06-17T14:49:33	ASI	SAM W=1	:A
+2025-06-17T14:49:33	ASI	AC Z=100	:A
+2025-06-17T14:49:33	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:49:59	Imager.filter position go to	640F
+2025-06-17T14:49:59	LSC.filter position go	640F
+2025-06-17T14:49:59	ASI	MP 2	2MP 2  2
+2025-06-17T14:50:02	Imager.filter position go to	OPEN
+2025-06-17T14:50:02	LSC.filter position go	OPEN
+2025-06-17T14:50:02	ASI	MP 3	3MP 3  3
+2025-06-17T14:50:50	UI-Main	illum focus wizard step 4
+2025-06-17T14:50:50	Imager.acquisition stop	
+2025-06-17T14:50:51	Imager.ETL control	FALSE
+2025-06-17T14:50:51	LSC.ETL start stop control	FALSE
+2025-06-17T14:50:51	ASI	SAM V=0 W=0	:A
+2025-06-17T14:50:51	ASI	J Z=0 V=0 W=0 N=0	:A
+2025-06-17T14:50:51	Imager.ETL offset update	TRUE
+2025-06-17T14:50:51	ASI	SAO W?	:A W=4314.063000
+2025-06-17T14:50:51	UI-Main	illum focus wizard step 5
+2025-06-17T14:50:51	Imager.change laser path	left
+2025-06-17T14:50:51	LSC.laser path change	left
+2025-06-17T14:50:51	ASI	m m=2	:A
+2025-06-17T14:50:52	ASI	M H=1960	:A
+2025-06-17T14:50:52	ASI	M I=1960	:A
+2025-06-17T14:50:52	ASI	M J=1960	:A
+2025-06-17T14:50:52	Imager.change laser to default	
+2025-06-17T14:50:52	LSC.laser active change to default	
+2025-06-17T14:50:52	ASI	m e=33	:A
+2025-06-17T14:50:52	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:50:52	ASI	m e=34	:A
+2025-06-17T14:50:52	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:50:52	ASI	m e=35	:A
+2025-06-17T14:50:52	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:50:52	Imager.focus dynamic adjustment off	
+2025-06-17T14:50:52	Imager.acquisition stop	
+2025-06-17T14:50:52	Imager.ETL control	FALSE
+2025-06-17T14:50:52	LSC.ETL start stop control	FALSE
+2025-06-17T14:50:52	Imager.filter open position go	
+2025-06-17T14:50:52	LSC.filter open position go to	
+2025-06-17T14:50:52	ASI	MP 3	3MP 3  3  0>
+2025-06-17T14:50:52	ASI	J N=22 V=23	:A
+2025-06-17T14:50:52	ASI	J Z=0 F=0 W=0	:A
+2025-06-17T14:50:52	ASI	7JS F=2.0 T=2.0	:A
+2025-06-17T14:50:52	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:50:52	ASI	SAA V = 4650.00	:A
+2025-06-17T14:50:52	LSC.trigger delay write	16
+2025-06-17T14:50:52	ASI	m e=1	:A
+2025-06-17T14:50:52	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:50:52	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:50:52	LSC.ETL offset write	4700.937000
+2025-06-17T14:50:52	ASI	SAO V=4700.937	:A
+2025-06-17T14:50:52	Imager.scan prepare	
+2025-06-17T14:50:52	LSC.ETL period write	50
+2025-06-17T14:50:52	ASI	SAF v=50 w=50	:A
+2025-06-17T14:50:52	ASI	m e=3 	:A
+2025-06-17T14:50:52	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:50:52	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:50:52	ASI	m e=4 	:A
+2025-06-17T14:50:52	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:50:53	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:50:53	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:50:53	ASI	m e=2	:A
+2025-06-17T14:50:53	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:50:53	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:50:53	ASI	m e=8	:A
+2025-06-17T14:50:53	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:50:53	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:50:53	ASI	2 TTL x=0	:A
+2025-06-17T14:50:53	Imager.ETL control	TRUE
+2025-06-17T14:50:53	LSC.ETL start stop control	TRUE
+2025-06-17T14:50:53	ASI	SAM V=1	:A
+2025-06-17T14:50:53	ASI	AC Z=100	:A
+2025-06-17T14:50:53	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:50:57	UI-Main	illum focus wizard step 6
+2025-06-17T14:50:57	Imager.acquisition stop	
+2025-06-17T14:50:57	Imager.ETL control	FALSE
+2025-06-17T14:50:57	LSC.ETL start stop control	FALSE
+2025-06-17T14:50:57	ASI	SAM V=0 W=0	:A
+2025-06-17T14:50:57	LSC.LSHA actuator zero	
+2025-06-17T14:50:57	ASI	H N=0	:A
+2025-06-17T14:50:57	Imager.ETL offset update	TRUE
+2025-06-17T14:50:57	ASI	SAO V?	:A V=4700.937000
+2025-06-17T14:50:58	ASI	J Z=23 F=22	:A
+2025-06-17T14:50:58	ASI	J N=0 V=0 W=0	:A
+2025-06-17T14:50:59	Imager.focus dynamic adjustment off	
+2025-06-17T14:50:59	Imager.acquisition stop	
+2025-06-17T14:50:59	Imager.ETL control	FALSE
+2025-06-17T14:50:59	LSC.ETL start stop control	FALSE
+2025-06-17T14:50:59	ASI	J Z=23 F=22	:A
+2025-06-17T14:50:59	ASI	J N=0 V=0 W=0	:A
+2025-06-17T14:50:59	ASI	7JS F=5.0 T=5.0	:A
+2025-06-17T14:50:59	Imager.change objective lens	LCT 3.6x
+2025-06-17T14:50:59	OS : UL.move	FALSE
+2025-06-17T14:50:59	OS : LL.move	TRUE
+2025-06-17T14:50:59	OS : UR.move	FALSE
+2025-06-17T14:50:59	OS : LR.move	TRUE
+2025-06-17T14:50:59	Imager.focus dynamic adjustment off	
+2025-06-17T14:50:59	Imager.filter change to match laser	
+2025-06-17T14:50:59	LSC.filter change to match laser	
+2025-06-17T14:50:59	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:50:59	Imager.change laser path	right
+2025-06-17T14:50:59	LSC.laser path change	right
+2025-06-17T14:50:59	ASI	m m=1	:A
+2025-06-17T14:50:59	ASI	M H=1960	:A
+2025-06-17T14:50:59	ASI	M I=1960	:A
+2025-06-17T14:50:59	ASI	M J=1960	:A
+2025-06-17T14:51:02	LSC.ETL amplitude write	2650.000000
+2025-06-17T14:51:02	ASI	SAA W = 2650.00	:A
+2025-06-17T14:51:02	LSC.trigger delay write	16
+2025-06-17T14:51:02	ASI	m e=1	:A
+2025-06-17T14:51:02	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:51:02	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:51:02	LSC.ETL offset write	4314.063000
+2025-06-17T14:51:02	ASI	SAO W=4314.063	:A
+2025-06-17T14:51:02	Imager.scan prepare	
+2025-06-17T14:51:02	LSC.ETL period write	50
+2025-06-17T14:51:02	ASI	SAF v=50 w=50	:A
+2025-06-17T14:51:03	ASI	m e=3 	:A
+2025-06-17T14:51:03	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:51:03	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:51:03	ASI	m e=4 	:A
+2025-06-17T14:51:03	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:51:03	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:51:03	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:51:03	ASI	m e=2	:A
+2025-06-17T14:51:03	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:51:03	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:51:03	ASI	m e=8	:A
+2025-06-17T14:51:03	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:51:03	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:51:03	ASI	2 TTL x=0	:A
+2025-06-17T14:51:03	Imager.ETL control	TRUE
+2025-06-17T14:51:03	LSC.ETL start stop control	TRUE
+2025-06-17T14:51:03	ASI	SAM W=1	:A
+2025-06-17T14:51:03	ASI	AC Z=100	:A
+2025-06-17T14:51:03	Imager.acquisition start	{"run mode":"preview","settings":{"frames to capture":0,"line exposure (ms)":2,"MIP image interval":NaN,"readout direction":"backward","image metadata":{"z step (um)":0},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:51:03	ASI	J X=2 Y=3	:A
+2025-06-17T14:51:24	Imager.acquisition stop	
+2025-06-17T14:51:24	Imager.ETL control	FALSE
+2025-06-17T14:51:24	LSC.ETL start stop control	FALSE
+2025-06-17T14:51:24	ASI	SAM V=0 W=0	:A
+2025-06-17T14:51:24	ASI	J X=0 Y=0	:A
+2025-06-17T14:51:27	Imager.focus dynamic adjustment off	
+2025-06-17T14:51:27	Imager.change laser path	left
+2025-06-17T14:51:27	LSC.laser path change	left
+2025-06-17T14:51:27	ASI	m m=2	:A
+2025-06-17T14:51:27	ASI	M H=1960	:A
+2025-06-17T14:51:27	ASI	M I=1960	:A
+2025-06-17T14:51:27	ASI	M J=1960	:A
+2025-06-17T14:51:30	Imager.focus dynamic adjustment off	
+2025-06-17T14:51:30	Imager.acquisition stop	
+2025-06-17T14:51:30	Imager.ETL control	FALSE
+2025-06-17T14:51:30	LSC.ETL start stop control	FALSE
+2025-06-17T14:51:37	Imager.focus dynamic adjustment off	
+2025-06-17T14:51:37	Imager.change laser path	left
+2025-06-17T14:51:37	LSC.laser path change	left
+2025-06-17T14:51:37	ASI	m m=2	:A
+2025-06-17T14:51:38	ASI	M H=1960	:A
+2025-06-17T14:51:38	ASI	M I=1960	:A
+2025-06-17T14:51:38	ASI	M J=1960	:A
+2025-06-17T14:51:41	Imager.focus dynamic adjustment off	
+2025-06-17T14:51:41	Imager.acquisition stop	
+2025-06-17T14:51:41	Imager.ETL control	FALSE
+2025-06-17T14:51:41	LSC.ETL start stop control	FALSE
+2025-06-17T14:52:20	Sequencer.sequence start	not saved
+2025-06-17T14:52:20	Imager.focus dynamic adjustment off	
+2025-06-17T14:52:21	ASI	J X=0 Y=0 Z=0 F=0 N=0 V=0 W=0	:A
+2025-06-17T14:52:21	Imager.focus map update	
+2025-06-17T14:52:21	ASI	M X=-11897 Y=141096 Z=46044	:A
+2025-06-17T14:52:21	Imager.filter position go to	561F
+2025-06-17T14:52:21	LSC.filter position go	561F
+2025-06-17T14:52:21	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:52:21	Imager.change laser path	left
+2025-06-17T14:52:21	LSC.laser path change	left
+2025-06-17T14:52:21	ASI	m m=2	:A
+2025-06-17T14:52:21	ASI	M H=1960	:A
+2025-06-17T14:52:21	ASI	M I=1960	:A
+2025-06-17T14:52:21	ASI	M J=1960	:A
+2025-06-17T14:52:21	Imager.change laser wavelength	561
+2025-06-17T14:52:21	LSC.laser active change	561
+2025-06-17T14:52:21	ASI	m e=33	:A
+2025-06-17T14:52:21	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:52:21	ASI	m e=34	:A
+2025-06-17T14:52:21	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:52:21	ASI	m e=35	:A
+2025-06-17T14:52:21	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:52:21	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:52:21	ASI	SAA V = 4650.00	:A
+2025-06-17T14:52:21	LSC.trigger delay write	16
+2025-06-17T14:52:21	ASI	m e=1	:A
+2025-06-17T14:52:21	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:52:21	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:52:21	LSC.ETL offset write	4700.937000
+2025-06-17T14:52:21	ASI	SAO V=4700.937	:A
+2025-06-17T14:52:21	Imager.focus adjustment	
+2025-06-17T14:52:21	ASI	2ZS X=18	:A
+2025-06-17T14:52:21	Imager.scan prepare	
+2025-06-17T14:52:21	LSC.ETL period write	50
+2025-06-17T14:52:21	ASI	SAF v=50 w=50	:A
+2025-06-17T14:52:22	ASI	m e=3 	:A
+2025-06-17T14:52:22	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:52:22	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:52:22	ASI	m e=4 	:A
+2025-06-17T14:52:22	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:52:22	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:52:22	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:52:22	ASI	m e=2	:A
+2025-06-17T14:52:22	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:52:22	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:52:22	ASI	m e=8	:A
+2025-06-17T14:52:22	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:52:22	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:52:22	ASI	m e=6	:A
+2025-06-17T14:52:22	ASI	6 cca y=8 z=862	:A
+2025-06-17T14:52:22	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:52:22	ASI	2 TTL x=2	:A
+2025-06-17T14:52:22	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":861,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:52:23	Imager.ETL control	TRUE
+2025-06-17T14:52:23	LSC.ETL start stop control	TRUE
+2025-06-17T14:52:23	ASI	SAM V=1	:A
+2025-06-17T14:53:06	Imager.acquisition stop	
+2025-06-17T14:53:06	Imager.ETL control	FALSE
+2025-06-17T14:53:06	LSC.ETL start stop control	FALSE
+2025-06-17T14:53:06	ASI	SAM V=0 W=0	:A
+2025-06-17T14:53:06	ASI	M X=-11897 Y=115176 Z=46044	:A
+2025-06-17T14:53:06	Imager.filter position go to	561F
+2025-06-17T14:53:06	LSC.filter position go	561F
+2025-06-17T14:53:06	ASI	MP 1	1MP 1  1  0
+2025-06-17T14:53:06	Imager.change laser path	left
+2025-06-17T14:53:06	LSC.laser path change	left
+2025-06-17T14:53:06	ASI	m m=2	:A
+2025-06-17T14:53:06	ASI	M H=1960	:A
+2025-06-17T14:53:06	ASI	M I=1960	:A
+2025-06-17T14:53:06	ASI	M J=1960	:A
+2025-06-17T14:53:06	Imager.change laser wavelength	561
+2025-06-17T14:53:06	LSC.laser active change	561
+2025-06-17T14:53:06	ASI	m e=33	:A
+2025-06-17T14:53:06	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:06	ASI	m e=34	:A
+2025-06-17T14:53:06	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:07	ASI	m e=35	:A
+2025-06-17T14:53:07	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:07	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:53:07	ASI	SAA V = 4650.00	:A
+2025-06-17T14:53:07	LSC.trigger delay write	16
+2025-06-17T14:53:07	ASI	m e=1	:A
+2025-06-17T14:53:07	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:53:07	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:53:07	LSC.ETL offset write	4700.937000
+2025-06-17T14:53:07	ASI	SAO V=4700.937	:A
+2025-06-17T14:53:08	Imager.focus adjustment	
+2025-06-17T14:53:08	ASI	2ZS X=18	:A
+2025-06-17T14:53:08	Imager.scan prepare	
+2025-06-17T14:53:08	LSC.ETL period write	50
+2025-06-17T14:53:08	ASI	SAF v=50 w=50	:A
+2025-06-17T14:53:08	ASI	m e=3 	:A
+2025-06-17T14:53:08	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:53:08	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:53:08	ASI	m e=4 	:A
+2025-06-17T14:53:08	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:53:08	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:53:08	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:53:08	ASI	m e=2	:A
+2025-06-17T14:53:08	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:53:08	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:53:09	ASI	m e=8	:A
+2025-06-17T14:53:09	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:53:09	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:53:09	ASI	m e=6	:A
+2025-06-17T14:53:09	ASI	6 cca y=8 z=862	:A
+2025-06-17T14:53:09	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:53:09	ASI	2 TTL x=2	:A
+2025-06-17T14:53:09	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":861,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:53:09	Imager.ETL control	TRUE
+2025-06-17T14:53:09	LSC.ETL start stop control	TRUE
+2025-06-17T14:53:09	ASI	SAM V=1	:A
+2025-06-17T14:53:52	Imager.acquisition stop	
+2025-06-17T14:53:52	Imager.ETL control	FALSE
+2025-06-17T14:53:52	LSC.ETL start stop control	FALSE
+2025-06-17T14:53:52	ASI	SAM V=0 W=0	:A
+2025-06-17T14:53:53	ASI	M X=-11897 Y=89256 Z=46044	:A
+2025-06-17T14:53:53	Imager.filter position go to	561F
+2025-06-17T14:53:53	LSC.filter position go	561F
+2025-06-17T14:53:53	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:53:53	Imager.change laser path	left
+2025-06-17T14:53:53	LSC.laser path change	left
+2025-06-17T14:53:53	ASI	m m=2	:A
+2025-06-17T14:53:53	ASI	M H=1960	:A
+2025-06-17T14:53:53	ASI	M I=1960	:A
+2025-06-17T14:53:53	ASI	M J=1960	:A
+2025-06-17T14:53:53	Imager.change laser wavelength	561
+2025-06-17T14:53:53	LSC.laser active change	561
+2025-06-17T14:53:53	ASI	m e=33	:A
+2025-06-17T14:53:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:53	ASI	m e=34	:A
+2025-06-17T14:53:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:53	ASI	m e=35	:A
+2025-06-17T14:53:53	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:53:53	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:53:53	ASI	SAA V = 4650.00	:A
+2025-06-17T14:53:53	LSC.trigger delay write	16
+2025-06-17T14:53:53	ASI	m e=1	:A
+2025-06-17T14:53:53	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:53:53	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:53:53	LSC.ETL offset write	4700.937000
+2025-06-17T14:53:53	ASI	SAO V=4700.937	:A
+2025-06-17T14:53:54	Imager.focus adjustment	
+2025-06-17T14:53:55	ASI	2ZS X=18	:A
+2025-06-17T14:53:55	Imager.scan prepare	
+2025-06-17T14:53:55	LSC.ETL period write	50
+2025-06-17T14:53:55	ASI	SAF v=50 w=50	:A
+2025-06-17T14:53:55	ASI	m e=3 	:A
+2025-06-17T14:53:55	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:53:55	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:53:55	ASI	m e=4 	:A
+2025-06-17T14:53:55	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:53:55	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:53:55	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:53:55	ASI	m e=2	:A
+2025-06-17T14:53:55	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:53:55	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:53:55	ASI	m e=8	:A
+2025-06-17T14:53:55	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:53:55	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:53:55	ASI	m e=6	:A
+2025-06-17T14:53:55	ASI	6 cca y=8 z=862	:A
+2025-06-17T14:53:55	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:53:55	ASI	2 TTL x=2	:A
+2025-06-17T14:53:55	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":861,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:53:56	Imager.ETL control	TRUE
+2025-06-17T14:53:56	LSC.ETL start stop control	TRUE
+2025-06-17T14:53:56	ASI	SAM V=1	:A
+2025-06-17T14:54:39	Imager.acquisition stop	
+2025-06-17T14:54:39	Imager.ETL control	FALSE
+2025-06-17T14:54:39	LSC.ETL start stop control	FALSE
+2025-06-17T14:54:39	ASI	SAM V=0 W=0	:A
+2025-06-17T14:54:39	ASI	M X=-11897 Y=63336 Z=46044	:A
+2025-06-17T14:54:39	Imager.filter position go to	561F
+2025-06-17T14:54:39	LSC.filter position go	561F
+2025-06-17T14:54:39	ASI	MP 1	1MP 1  1  0>
+2025-06-17T14:54:39	Imager.change laser path	left
+2025-06-17T14:54:39	LSC.laser path change	left
+2025-06-17T14:54:39	ASI	m m=2	:A
+2025-06-17T14:54:39	ASI	M H=1960	:A
+2025-06-17T14:54:39	ASI	M I=1960	:A
+2025-06-17T14:54:39	ASI	M J=1960	:A
+2025-06-17T14:54:39	Imager.change laser wavelength	561
+2025-06-17T14:54:39	LSC.laser active change	561
+2025-06-17T14:54:39	ASI	m e=33	:A
+2025-06-17T14:54:39	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:54:39	ASI	m e=34	:A
+2025-06-17T14:54:40	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:54:40	ASI	m e=35	:A
+2025-06-17T14:54:40	ASI	6 cca y=2 z=0	:A
+2025-06-17T14:54:40	LSC.ETL amplitude write	4650.000000
+2025-06-17T14:54:40	ASI	SAA V = 4650.00	:A
+2025-06-17T14:54:40	LSC.trigger delay write	16
+2025-06-17T14:54:40	ASI	m e=1	:A
+2025-06-17T14:54:40	ASI	6 cca y=9 z=64	:A
+2025-06-17T14:54:40	ASI	6 ccb x=40 y=192	:A
+2025-06-17T14:54:40	LSC.ETL offset write	4700.937000
+2025-06-17T14:54:40	ASI	SAO V=4700.937	:A
+2025-06-17T14:54:41	Imager.focus adjustment	
+2025-06-17T14:54:42	ASI	2ZS X=18	:A
+2025-06-17T14:54:42	Imager.scan prepare	
+2025-06-17T14:54:42	LSC.ETL period write	50
+2025-06-17T14:54:42	ASI	SAF v=50 w=50	:A
+2025-06-17T14:54:42	ASI	m e=3 	:A
+2025-06-17T14:54:42	ASI	6 cca y=9 z=195	:A
+2025-06-17T14:54:42	ASI	6 ccb x=2 y=192	:A
+2025-06-17T14:54:42	ASI	m e=4 	:A
+2025-06-17T14:54:42	ASI	6 cca y=8 z=201	:A
+2025-06-17T14:54:42	ASI	6 ccb x=3 y=192	:A
+2025-06-17T14:54:42	LSC.trigger turn on	run time=23 Z offset=1
+2025-06-17T14:54:42	ASI	m e=2	:A
+2025-06-17T14:54:42	ASI	6 cca y=8 z=116	:A
+2025-06-17T14:54:42	ASI	6 ccb x=1 y=192	:A
+2025-06-17T14:54:42	ASI	m e=8	:A
+2025-06-17T14:54:42	ASI	6 cca y=9 z=96	:A
+2025-06-17T14:54:42	ASI	6 ccb x=7 y=192	:A
+2025-06-17T14:54:42	ASI	m e=6	:A
+2025-06-17T14:54:42	ASI	6 cca y=8 z=862	:A
+2025-06-17T14:54:42	ASI	6 ccb x=4 y=5	:A
+2025-06-17T14:54:42	ASI	2 TTL x=2	:A
+2025-06-17T14:54:42	Imager.acquisition start	{"run mode":"save","settings":{"frames to capture":861,"line exposure (ms)":2,"MIP image interval":277.777777777778,"readout direction":"backward","image metadata":{"z step (um)":1.8},"crop and offsets":{"X offset":0,"Y offset":0,"resolution":2000,"aspect ratio":0.8,"offset multiplier":0}}}
+2025-06-17T14:54:43	Imager.ETL control	TRUE
+2025-06-17T14:54:43	LSC.ETL start stop control	TRUE
+2025-06-17T14:54:43	ASI	SAM V=1	:A
+2025-06-17T14:55:26	Imager.acquisition stop	
+2025-06-17T14:55:26	Imager.ETL control	FALSE
+2025-06-17T14:55:26	LSC.ETL start stop control	FALSE
+2025-06-17T14:55:26	ASI	SAM V=0 W=0	:A
+2025-06-17T14:55:26	Imager.acquisition stop	
+2025-06-17T14:55:26	Imager.ETL control	FALSE
+2025-06-17T14:55:26	LSC.ETL start stop control	FALSE
+2025-06-17T14:55:26	ASI	2 TTL x=0	:A
+2025-06-17T14:55:26	ASI	J Z=23 F=22	:A
+2025-06-17T15:11:25	Test_Panels	stopped
+2025-06-17T15:11:27	UI-Main	stopped
+2025-06-17T15:11:27	SPIM_App	stopped
+2025-06-17T15:11:27	Sequencer	stopped
+2025-06-17T15:11:28	SPIM_Control	stopped
+2025-06-17T15:11:28	Joystick	stopped
+2025-06-17T15:11:29	Imager	stopped
+2025-06-17T15:11:29	Optical_Configuration	stopped
+2025-06-17T15:11:29	OS.close	
+2025-06-17T15:11:29	OSMightyZAP	stopped
+2025-06-17T15:11:29	LSC	stopped
+2025-06-17T15:11:29	Focus	stopped
+2025-06-17T15:11:31	Stage	stopped
+2025-06-17T15:11:31	LaserVortran	stopped
+2025-06-17T15:11:31	Trigger	stopped
+2025-06-17T15:11:31	ETL	stopped
+2025-06-17T15:11:31	Filter_Wheel	stopped
+2025-06-17T15:11:31	LSHA_Actuator	stopped

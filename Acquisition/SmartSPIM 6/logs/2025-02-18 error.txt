@@ -1,0 +1,10 @@
+2025-02-18T10:31:15	SPIM_Control	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T10:32:33	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T10:46:32	SPIM_Control	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 1.625x-1.52+-left-640.Amp" not found.
+2025-02-18T10:46:45	SPIM_Control	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T10:47:03	SPIM_Control	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T10:47:17	SPIM_Control	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T12:31:45	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T14:04:28	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T14:05:18	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.
+2025-02-18T14:07:11	Test_Panels	error_code:42	Imager.lvclass:scan parameter lookup.vi<ERR> Scan map key "FAST-LCT 3.6x-1.52+-left-640.Amp" not found.

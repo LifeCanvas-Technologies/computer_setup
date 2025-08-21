@@ -1,0 +1,20 @@
+2025-02-11T16:18:09	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:22:08	ASI_TG-1000	error_code:42	ASI_TG-1000.lvclass:Process.vi:5310001<ERR> ASI is configured to disable serial communication.
+2025-02-11T16:22:08	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:26:02	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:25:17	ASI_TG-1000	error_code:-1073807339	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880028->start subsystems.vi->Launcher.vi
+2025-02-11T16:29:05	ASI_TG-1000	error_code:-1073807339	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880028->start subsystems.vi->Launcher.vi
+2025-02-11T16:29:50	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:32:04	ASI_TG-1000	error_code:-1073807339	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880028->start subsystems.vi->Launcher.vi
+2025-02-11T16:32:49	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:34:38	ASI_TG-1000	error_code:-1073807339	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880028->start subsystems.vi->Launcher.vi
+2025-02-11T16:35:23	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:45:23	ASI_TG-1000	error_code:42	ASI_TG-1000.lvclass:serial command and parse.vi<ERR> ASI has not been successfully initialized.
+2025-02-11T16:46:09	StageASI	error_code:42	Stage.ASI.lvclass:position read all.vi<ERR> 4 stage positions were expected, only 0 were detected.
+2025-02-11T16:50:18	StageASI	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-11T16:50:18	ASI_TG-1000	error_code:-1073807339	VISA Read in ASI TG-1000.lvlib:Send Serial Command.vi->ASI_TG-1000.lvclass:serial command and parse.vi->ASI_TG-1000.lvclass:onStart.vi:480001->SMO.lvclass:Start.vi:1880028->start subsystems.vi->Launcher.vi
+2025-02-11T16:50:18	LaserVortran	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-11T16:50:19	JoystickASI	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-11T16:50:21	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-11T16:50:30	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized
+2025-02-11T16:50:42	Focus	error_code:42	ASI_TG-1000.lvclass:command event-wait notifier.vi<ERR> ASI has not been succesfully initialized

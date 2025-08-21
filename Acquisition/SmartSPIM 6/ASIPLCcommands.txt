@@ -1,0 +1,147 @@
+;; anything after ';' is ignored
+
+
+; Configure TLC
+
+9 ttl y=22 ;In this mode, TTL OUT0 is controlled by Single-axis function module
+SAP v=32 w=32 ;sawtooth and output
+SAA v=2000 w=2000 ;default amplitude
+SAF v=50 w=50 ;defualt of 20Hz
+SAO v=0 w=0
+
+
+; Configure PLC
+;BNC 1 = Laser 1
+;BNC 2 = Laser 2
+;BNC 3 = Laser 3
+;BNC 4 = Laser 4
+;BNC 5 = Camera 1
+;BNC 6 = Flip
+;BNC 7 = Piezo/ZStage
+;BNC 8 = Input from TLC
+
+;Configure PLC clock to trigger from TLC
+6 PM E=0; trigger on backplane-pin C7 input
+
+;Configure Input
+
+;m e=48 ;TTL7 backplane
+m e=40 ; BNC 8
+6 cca y=0
+
+;Configure Outputs
+
+;Lasers
+m e=33 ; BNC 1
+6 cca y=2 z=4; (0=off, 2=on)
+
+m e=34 ; BNC 2
+6 cca y=2 z=0; (0=off, 2=on)
+
+m e=35 ; BNC 3
+6 cca y=2 z=0; (0=off, 2=on)
+
+m e=36 ; BNC 4
+6 cca y=2 z=0; (0=off, 2=on)
+
+;Camera 1
+m e=37 ; BNC 5
+6 cca y=2 z=2; (0=off, 2=on)
+
+;Galvo
+m e=38 ; BNC 6
+6 cca y=2 z=0; (0=off, 64=on)
+
+;Piezo/Zstage/Analog Trigger 
+m e=39 ; BNC 7
+6 cca y=2 z=8; (add 64 to this to get inverted)
+
+;;;;;;;;Configure Cells;;;;;;;;;;;
+
+
+;Cam/Laser setup (must throw away first image in software)
+m e=1
+;Set this to a delay from the input 40
+6 cca y=9 z=25; (z = delay)
+6 ccb x=40 y=192; 
+
+m e=2
+;Set this to a one shot
+6 cca y=8 z=112; (z=Cam_On +6)
+6 ccb x=1 y=192; (comes from cell 1)
+
+
+;To skip the first period of ETL cycle
+m e=3
+;Set this to a delay
+6 cca y=9 z=45; (z = period -5)
+6 ccb x=2 y=192;
+
+;to set it to an always high pulse
+m e=4
+;Set this to a one shot
+6 cca y=8 z=55; (z=period + 5)
+6 ccb x=3 y=192; (comes from cell 1)
+
+
+;Z-stage Output setup (skip first period)
+;AND the delay/always high and the cam output - can be used for lasers!
+m e=5
+;AND Function
+6 cca y=5 
+6 ccb x=2 y=4; (AND of cam_out and delay)
+
+
+;WINDOW
+m e=6
+6 cca y=8 z=301; (z=number)(time for a single sub-stack)(window)
+6 ccb x=4 y=5; (comes from cell 2)(clock from cell 6)
+
+;AND
+m e=7
+6 cca y=5 
+6 ccb x=5 y=6; (AND of z_out and window)
+
+;Trigger Out
+m e=8
+;Set this to a delay
+6 cca y=9 z=112; (z = z=Cam_On +6)
+6 ccb x=7 y=192; 
+
+;Laser rework
+;AND
+m e=9
+6 cca y=5 
+6 ccb x=4 y=6; (AND of laser2 and window6)
+
+
+
+
+;Configure Stages
+;
+j z=23 f=22 m=0 n=0 v=0 w=0
+s x=1.7 y=1.7 z=1.7 f=1.7 
+1 js x=80 y=80
+2 js f=10 t=10
+b v=0 w=0
+j v=0 w=0
+j z=23 f=22
+9 js f=0.3 t=0.3
+
+;For internal flip mirror w ASI control
+s m=20
+
+;z-axis
+2 TTL x=2 y=2; (x=2 sets it to respond to triggers)
+2 TTL x=0
+pc z=0.0002
+e z=0.0004
+ac z=25
+kv z=85
+ka z=0
+kp z=200
+
+
+
+
+
